@@ -1,0 +1,114 @@
+[
+    {
+        "id": 12345671,
+        "b_product_id": 1234567,
+        "present_type": 1,
+        "present_id": 301,
+        "present_rarity": 0,
+        "present_num": 5
+    },
+    {
+        "id": 12345672,
+        "b_product_id": 1234567,
+        "present_type": 1,
+        "present_id": 1902,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 12345673,
+        "b_product_id": 1234567,
+        "present_type": 1,
+        "present_id": 1903,
+        "present_rarity": 0,
+        "present_num": 1
+    },
+    {
+        "id": 12345674,
+        "b_product_id": 1234567,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 1160
+    },
+    {
+        "id": 12345675,
+        "b_product_id": 1234567,
+        "present_type": 1,
+        "present_id": 1401,
+        "present_rarity": 0,
+        "present_num": 5
+    },
+    {
+        "id": 12345676,
+        "b_product_id": 12345672,
+        "present_type": 1,
+        "present_id": 1801,
+        "present_rarity": 0,
+        "present_num": 150
+    },
+    {
+        "id": 12345677,
+        "b_product_id": 12345672,
+        "present_type": 1,
+        "present_id": 1811,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 12345678,
+        "b_product_id": 12345672,
+        "present_type": 1,
+        "present_id": 1821,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 12345679,
+        "b_product_id": 12345673,
+        "present_type": 1,
+        "present_id": 1802,
+        "present_rarity": 0,
+        "present_num": 200
+    },
+    {
+        "id": 12345680,
+        "b_product_id": 12345673,
+        "present_type": 1,
+        "present_id": 1812,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 12345681,
+        "b_product_id": 12345673,
+        "present_type": 1,
+        "present_id": 1822,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 12345682,
+        "b_product_id": 12345674,
+        "present_type": 1,
+        "present_id": 1803,
+        "present_rarity": 0,
+        "present_num": 230
+    },
+    {
+        "id": 12345683,
+        "b_product_id": 12345674,
+        "present_type": 1,
+        "present_id": 1813,
+        "present_rarity": 0,
+        "present_num": 100
+    },
+    {
+        "id": 12345684,
+        "b_product_id": 12345674,
+        "present_type": 1,
+        "present_id": 1823,
+        "present_rarity": 0,
+        "present_num": 100
+    }
+]
