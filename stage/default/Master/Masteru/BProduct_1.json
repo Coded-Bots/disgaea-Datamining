@@ -23,7 +23,7 @@
     },
     {
         "id": 12345672,
-        "name": "Gem Buffet Pack(Lv1)",
+        "name": "Gem Buffet Pack (Lv1)",
         "icon_no": 12345672,
         "m_item_shop_id": 1,
         "limit_type": 3,
@@ -45,7 +45,7 @@
     },
     {
         "id": 12345673,
-        "name": "Gem Buffet Pack(Lv2)",
+        "name": "Gem Buffet Pack (Lv2)",
         "icon_no": 12345673,
         "m_item_shop_id": 1,
         "limit_type": 3,
@@ -67,7 +67,7 @@
     },
     {
         "id": 12345674,
-        "name": "Gem Buffet Pack(Lv3)",
+        "name": "Gem Buffet Pack (Lv3)",
         "icon_no": 12345674,
         "m_item_shop_id": 1,
         "limit_type": 3,
