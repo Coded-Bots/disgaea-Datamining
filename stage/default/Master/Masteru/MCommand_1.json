@@ -6831,8 +6831,8 @@
     {
         "id": 3000073,
         "resource_id": 0,
-        "name": "Fall In Love",
-        "name_battle": "Fall In \nLove",
+        "name": "Fallen Arrows",
+        "name_battle": "Fallen\nArrows",
         "command_category": 3,
         "attr": 0,
         "max_lv": 30,
@@ -9318,8 +9318,8 @@
     {
         "id": 3000332,
         "resource_id": 0,
-        "name": "Fall In Love",
-        "name_battle": "Fall In \nLove",
+        "name": "Fallen Arrows",
+        "name_battle": "Fallen\nArrows",
         "command_category": 3,
         "attr": 0,
         "max_lv": 30,
