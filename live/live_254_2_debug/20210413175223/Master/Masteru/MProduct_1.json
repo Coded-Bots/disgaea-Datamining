@@ -122,7 +122,7 @@
         "icon_resource_name": "",
         "recommended_flg": false,
         "recommended_message": "",
-        "open_at": "2020-01-01 00:00:00",
+        "open_at": "2021-04-01 00:00:00",
         "close_at": "2021-05-11 02:00:00"
     },
     {
@@ -143,7 +143,7 @@
         "icon_resource_name": "",
         "recommended_flg": false,
         "recommended_message": "",
-        "open_at": "2020-01-01 00:00:00",
+        "open_at": "2021-04-01 00:00:00",
         "close_at": "2021-05-11 02:00:00"
     },
     {
@@ -164,7 +164,7 @@
         "icon_resource_name": "",
         "recommended_flg": false,
         "recommended_message": "",
-        "open_at": "2020-01-01 00:00:00",
+        "open_at": "2021-04-01 00:00:00",
         "close_at": "2021-05-11 02:00:00"
     },
     {
@@ -185,7 +185,7 @@
         "icon_resource_name": "",
         "recommended_flg": false,
         "recommended_message": "",
-        "open_at": "2020-01-01 00:00:00",
+        "open_at": "2021-04-01 00:00:00",
         "close_at": "2021-05-11 02:00:00"
     },
     {
@@ -850,7 +850,7 @@
         "price": 50,
         "price_m_item_id": 0,
         "comeback": false,
-        "description": "Max Armor +5",
+        "description": "Max Armors +5",
         "cheaping": "",
         "pack_flg": false,
         "sort": 3,
@@ -946,7 +946,7 @@
     },
     {
         "id": 110,
-        "name": "Gate Keys",
+        "name": "Gate Key",
         "icon_no": 1401,
         "m_item_shop_id": 1,
         "limit_type": 0,
@@ -1051,7 +1051,7 @@
     },
     {
         "id": 1101,
-        "name": "3 Gate Keys Set",
+        "name": "3 Gate Key Set",
         "icon_no": 1101,
         "m_item_shop_id": 1,
         "limit_type": 1,
@@ -1072,7 +1072,7 @@
     },
     {
         "id": 1102,
-        "name": "10 Gate Keys Set",
+        "name": "10 Gate Key Set",
         "icon_no": 1102,
         "m_item_shop_id": 1,
         "limit_type": 1,
@@ -1333,7 +1333,7 @@
         "price": 7,
         "price_m_item_id": 0,
         "comeback": false,
-        "description": "Training Pack with 3 Gate Keys included",
+        "description": "Training Pack with 3 Gate Key included",
         "cheaping": "",
         "pack_flg": true,
         "sort": 104,
@@ -1438,7 +1438,7 @@
         "price": 27,
         "price_m_item_id": 0,
         "comeback": false,
-        "description": "The Most Badass Pack with 4★ Summon Ticket included",
+        "description": "Fiercest Fes Pack with 4★ Summon Ticket included",
         "cheaping": "",
         "pack_flg": true,
         "sort": 20,
@@ -1697,8 +1697,8 @@
         "icon_resource_name": "",
         "recommended_flg": false,
         "recommended_message": "",
-        "open_at": "2021-04-27 03:00:00",
-        "close_at": "2021-05-11 02:00:00"
+        "open_at": "2021-04-27 02:00:00",
+        "close_at": "2021-05-11 23:59:59"
     },
     {
         "id": 100014,
@@ -1718,8 +1718,8 @@
         "icon_resource_name": "",
         "recommended_flg": false,
         "recommended_message": "",
-        "open_at": "2021-04-27 03:00:00",
-        "close_at": "2021-05-11 02:00:00"
+        "open_at": "2021-04-27 02:00:00",
+        "close_at": "2021-05-11 23:59:59"
     },
     {
         "id": 100015,
@@ -1739,8 +1739,8 @@
         "icon_resource_name": "",
         "recommended_flg": false,
         "recommended_message": "",
-        "open_at": "2021-04-27 03:00:00",
-        "close_at": "2021-05-11 02:00:00"
+        "open_at": "2021-04-27 02:00:00",
+        "close_at": "2021-05-11 23:59:59"
     },
     {
         "id": 100016,
@@ -2101,7 +2101,7 @@
     },
     {
         "id": 100033,
-        "name": "The Most Badass Pack (S)",
+        "name": "Fiercest Fes Pack (S)",
         "icon_no": 100033,
         "m_item_shop_id": 2,
         "limit_type": 3,
@@ -2110,7 +2110,7 @@
         "price": 3800,
         "price_m_item_id": 0,
         "comeback": false,
-        "description": "The Most Badass Pack (S)",
+        "description": "Fiercest Fes Pack (S)",
         "cheaping": "",
         "pack_flg": true,
         "sort": 1,
@@ -2122,7 +2122,7 @@
     },
     {
         "id": 100034,
-        "name": "The Most Badass Pack (M)",
+        "name": "Fiercest Fes Pack (M)",
         "icon_no": 100034,
         "m_item_shop_id": 2,
         "limit_type": 3,
@@ -2131,7 +2131,7 @@
         "price": 7500,
         "price_m_item_id": 0,
         "comeback": false,
-        "description": "The Most Badass Pack (M)",
+        "description": "Fiercest Fes Pack (M)",
         "cheaping": "",
         "pack_flg": true,
         "sort": 2,
@@ -2143,7 +2143,7 @@
     },
     {
         "id": 100035,
-        "name": "The Most Badass Pack (L)",
+        "name": "Fiercest Fes Pack (L)",
         "icon_no": 100035,
         "m_item_shop_id": 2,
         "limit_type": 3,
@@ -2152,7 +2152,7 @@
         "price": 11500,
         "price_m_item_id": 0,
         "comeback": false,
-        "description": "The Most Badass Pack (L)",
+        "description": "Fiercest Fes Pack (L)",
         "cheaping": "",
         "pack_flg": true,
         "sort": 3,
@@ -2857,7 +2857,7 @@
     },
     {
         "id": 100069,
-        "name": "The Most Badass Pack (S)",
+        "name": "Fiercest Fes Pack (S)",
         "icon_no": 100069,
         "m_item_shop_id": 2,
         "limit_type": 3,
@@ -2866,7 +2866,7 @@
         "price": 3800,
         "price_m_item_id": 0,
         "comeback": false,
-        "description": "The Most Badass Pack (S)",
+        "description": "Fiercest Fes Pack (S)",
         "cheaping": "",
         "pack_flg": true,
         "sort": 2,
@@ -2878,7 +2878,7 @@
     },
     {
         "id": 100070,
-        "name": "The Most Badass Pack (M)",
+        "name": "Fiercest Fes Pack (M)",
         "icon_no": 100070,
         "m_item_shop_id": 2,
         "limit_type": 3,
@@ -2887,7 +2887,7 @@
         "price": 7500,
         "price_m_item_id": 0,
         "comeback": false,
-        "description": "The Most Badass Pack (M)",
+        "description": "Fiercest Fes Pack (M)",
         "cheaping": "",
         "pack_flg": true,
         "sort": 3,
@@ -2899,7 +2899,7 @@
     },
     {
         "id": 100071,
-        "name": "The Most Badass Pack (L)",
+        "name": "Fiercest Fes Pack (L)",
         "icon_no": 100071,
         "m_item_shop_id": 2,
         "limit_type": 3,
@@ -2908,7 +2908,7 @@
         "price": 11500,
         "price_m_item_id": 0,
         "comeback": false,
-        "description": "The Most Badass Pack (L)",
+        "description": "Fiercest Fes Pack (L)",
         "cheaping": "",
         "pack_flg": true,
         "sort": 4,
@@ -3382,7 +3382,7 @@
     },
     {
         "id": 100094,
-        "name": "The Most Badass Pack (S)",
+        "name": "Fiercest Fes Pack (S)",
         "icon_no": 100069,
         "m_item_shop_id": 2,
         "limit_type": 3,
@@ -3391,7 +3391,7 @@
         "price": 3800,
         "price_m_item_id": 0,
         "comeback": false,
-        "description": "The Most Badass Pack (S)",
+        "description": "Fiercest Fes Pack (S)",
         "cheaping": "",
         "pack_flg": true,
         "sort": 1,
@@ -3403,7 +3403,7 @@
     },
     {
         "id": 100095,
-        "name": "The Most Badass Pack (M)",
+        "name": "Fiercest Fes Pack (M)",
         "icon_no": 100070,
         "m_item_shop_id": 2,
         "limit_type": 3,
@@ -3412,7 +3412,7 @@
         "price": 7500,
         "price_m_item_id": 0,
         "comeback": false,
-        "description": "The Most Badass Pack (M)",
+        "description": "Fiercest Fes Pack (M)",
         "cheaping": "",
         "pack_flg": true,
         "sort": 2,
@@ -3424,7 +3424,7 @@
     },
     {
         "id": 100096,
-        "name": "The Most Badass Pack (L)",
+        "name": "Fiercest Fes Pack (L)",
         "icon_no": 100071,
         "m_item_shop_id": 2,
         "limit_type": 3,
@@ -3433,7 +3433,7 @@
         "price": 11500,
         "price_m_item_id": 0,
         "comeback": false,
-        "description": "The Most Badass Pack (L)",
+        "description": "Fiercest Fes Pack (L)",
         "cheaping": "",
         "pack_flg": true,
         "sort": 3,
@@ -9031,7 +9031,7 @@
     },
     {
         "id": 117008,
-        "name": "Gate Keys",
+        "name": "Gate Key",
         "icon_no": 1401,
         "m_item_shop_id": 117,
         "limit_type": 3,
@@ -10921,7 +10921,7 @@
     },
     {
         "id": 124008,
-        "name": "Gate Keys",
+        "name": "Gate Key",
         "icon_no": 1401,
         "m_item_shop_id": 124,
         "limit_type": 3,
