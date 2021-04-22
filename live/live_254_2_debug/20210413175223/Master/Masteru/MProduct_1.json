@@ -122,7 +122,7 @@
         "icon_resource_name": "",
         "recommended_flg": false,
         "recommended_message": "",
-        "open_at": "2021-04-01 00:00:00",
+        "open_at": "2020-01-01 00:00:00",
         "close_at": "2021-05-11 02:00:00"
     },
     {
@@ -143,7 +143,7 @@
         "icon_resource_name": "",
         "recommended_flg": false,
         "recommended_message": "",
-        "open_at": "2021-04-01 00:00:00",
+        "open_at": "2020-01-01 00:00:00",
         "close_at": "2021-05-11 02:00:00"
     },
     {
@@ -164,7 +164,7 @@
         "icon_resource_name": "",
         "recommended_flg": false,
         "recommended_message": "",
-        "open_at": "2021-04-01 00:00:00",
+        "open_at": "2020-01-01 00:00:00",
         "close_at": "2021-05-11 02:00:00"
     },
     {
@@ -185,7 +185,7 @@
         "icon_resource_name": "",
         "recommended_flg": false,
         "recommended_message": "",
-        "open_at": "2021-04-01 00:00:00",
+        "open_at": "2020-01-01 00:00:00",
         "close_at": "2021-05-11 02:00:00"
     },
     {
@@ -850,7 +850,7 @@
         "price": 50,
         "price_m_item_id": 0,
         "comeback": false,
-        "description": "Max Armors +5",
+        "description": "Max Armor +5",
         "cheaping": "",
         "pack_flg": false,
         "sort": 3,
@@ -946,7 +946,7 @@
     },
     {
         "id": 110,
-        "name": "Gate Key",
+        "name": "Gate Keys",
         "icon_no": 1401,
         "m_item_shop_id": 1,
         "limit_type": 0,
@@ -1051,7 +1051,7 @@
     },
     {
         "id": 1101,
-        "name": "3 Gate Key Set",
+        "name": "3 Gate Keys Set",
         "icon_no": 1101,
         "m_item_shop_id": 1,
         "limit_type": 1,
@@ -1072,7 +1072,7 @@
     },
     {
         "id": 1102,
-        "name": "10 Gate Key Set",
+        "name": "10 Gate Keys Set",
         "icon_no": 1102,
         "m_item_shop_id": 1,
         "limit_type": 1,
@@ -1333,7 +1333,7 @@
         "price": 7,
         "price_m_item_id": 0,
         "comeback": false,
-        "description": "Training Pack with 3 Gate Key included",
+        "description": "Training Pack with 3 Gate Keys included",
         "cheaping": "",
         "pack_flg": true,
         "sort": 104,
@@ -9031,7 +9031,7 @@
     },
     {
         "id": 117008,
-        "name": "Gate Key",
+        "name": "Gate Keys",
         "icon_no": 1401,
         "m_item_shop_id": 117,
         "limit_type": 3,
@@ -10921,7 +10921,7 @@
     },
     {
         "id": 124008,
-        "name": "Gate Key",
+        "name": "Gate Keys",
         "icon_no": 1401,
         "m_item_shop_id": 124,
         "limit_type": 3,

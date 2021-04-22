@@ -428,7 +428,7 @@
             2
         ],
         "description_effect": "ATK-10%",
-        "description": "This is the ultimate proof of Flonne's love!"
+        "description": "This is my, ultimate, proof of love!!"
     },
     {
         "id": 12,
@@ -1363,8 +1363,8 @@
     {
         "id": 36,
         "resource_id": 3000383,
-        "name": "Emperor Flughunde+",
-        "name_battle": "Emperor \nFlughunde+",
+        "name": "Netherlord Bat+",
+        "name_battle": "Netherlord \nBat+",
         "command_category": 3,
         "attr": 4,
         "max_lv": 30,
@@ -1432,7 +1432,7 @@
             2
         ],
         "description_effect": "Action Gauge -250, Removes boosts",
-        "description": "A tyrannical death to the weak."
+        "description": "Violent death for the weak."
     },
     {
         "id": 100001,
@@ -1470,7 +1470,7 @@
             1
         ],
         "description_effect": "-",
-        "description": "Getting enemies in a line is tough."
+        "description": "It's not easy to get enemies in line."
     },
     {
         "id": 100002,
@@ -1527,7 +1527,7 @@
             1
         ],
         "description_effect": "-",
-        "description": "More spins than ever before!"
+        "description": "More spins than ever."
     },
     {
         "id": 100003,
@@ -1603,7 +1603,7 @@
             2
         ],
         "description_effect": "-",
-        "description": "Adding an X makes it sound cooler!"
+        "description": "It's about the age to X everything."
     },
     {
         "id": 100005,
@@ -1641,7 +1641,7 @@
             2
         ],
         "description_effect": "-",
-        "description": "A clever move for attacking from above."
+        "description": "Nice idea to attack from above."
     },
     {
         "id": 100006,
@@ -1679,7 +1679,7 @@
             2
         ],
         "description_effect": "-",
-        "description": "You must be good if you can slash dimensions."
+        "description": "Cutting through dimensions? That's something..."
     },
     {
         "id": 100007,
@@ -1717,7 +1717,7 @@
             1
         ],
         "description_effect": "-",
-        "description": "The ultimate sword skill that future fencers will love"
+        "description": "The height of swordsmanship. Admired through the ages."
     },
     {
         "id": 100008,
@@ -1763,7 +1763,7 @@
             1
         ],
         "description_effect": "Bestows \"Forget\" effect.",
-        "description": "Three times the Punch! Great value."
+        "description": "Three punches, scuffed and exhilarated!"
     },
     {
         "id": 100009,
@@ -1946,7 +1946,7 @@
             1
         ],
         "description_effect": "Bestows \"Forget\" effect.",
-        "description": "An uppercut for the lowest common dominator."
+        "description": "Send your enemy flying with an uppercut and let him fall on his head."
     },
     {
         "id": 100013,
@@ -1990,7 +1990,7 @@
             2
         ],
         "description_effect": "Bestows \"Forget\" effect.",
-        "description": "Note: This skill's images are just a reenactment."
+        "description": "*The image is in your imagination."
     },
     {
         "id": 100014,
@@ -2051,7 +2051,7 @@
             1
         ],
         "description_effect": "Bestows \"Forget\" effect.",
-        "description": "Created during a fight between an ancient Majin and his wife."
+        "description": "The height of pugilism. Celebrated through the ages."
     },
     {
         "id": 100015,
@@ -2151,7 +2151,7 @@
             1
         ],
         "description_effect": "-",
-        "description": "May not actually contain 1,000 piercings..."
+        "description": "Don't complain if it's not actually that many piercings."
     },
     {
         "id": 100017,
@@ -2215,7 +2215,7 @@
             2
         ],
         "description_effect": "-",
-        "description": "Don't talk about the spears from the magic circle."
+        "description": "Don't touch that spear."
     },
     {
         "id": 100018,
@@ -2253,7 +2253,7 @@
             2
         ],
         "description_effect": "-",
-        "description": "The flaming wings will burn a little..."
+        "description": "The wings of flame burn a little bit."
     },
     {
         "id": 100019,
@@ -2291,13 +2291,13 @@
             2
         ],
         "description_effect": "-",
-        "description": "The wind blowing in your face just looks ridiculous."
+        "description": "The wind is so strong that it changes the shape of people's faces."
     },
     {
         "id": 100020,
         "resource_id": 0,
-        "name": "Divine Trishula",
-        "name_battle": "Divine Trishula",
+        "name": "Trident of Kōjin",
+        "name_battle": "Trident of Kōjin",
         "command_category": 1,
         "attr": 0,
         "max_lv": 30,
@@ -2329,13 +2329,13 @@
             2
         ],
         "description_effect": "-",
-        "description": "Go fork yourself."
+        "description": "What a big fork..."
     },
     {
         "id": 100021,
         "resource_id": 0,
-        "name": "Meteor Sky Spear",
-        "name_battle": "Meteor Sky Spear",
+        "name": "Shooting Star",
+        "name_battle": "Shooting Star",
         "command_category": 1,
         "attr": 0,
         "max_lv": 30,
@@ -2367,7 +2367,7 @@
             2
         ],
         "description_effect": "-",
-        "description": "The sky is practically made of spears."
+        "description": "The height of spearmanship. Exalted through the ages."
     },
     {
         "id": 100022,
@@ -2423,7 +2423,7 @@
             1
         ],
         "description_effect": "ATK-10%",
-        "description": "It's the Prinnies' job to collect the arrows afterward."
+        "description": "Arrows will be collected by Prinnies."
     },
     {
         "id": 100023,
@@ -2467,7 +2467,7 @@
             2
         ],
         "description_effect": "ATK-10%",
-        "description": "Count how many of you there are!"
+        "description": "It can't be a psychic phenomenon. It might be. It has to be."
     },
     {
         "id": 100024,
@@ -2511,7 +2511,7 @@
             2
         ],
         "description_effect": "ATK-10%",
-        "description": "Today's weather is sunny with a chance of arrows."
+        "description": "It's sunny across the country today. With isolated showers of arrows."
     },
     {
         "id": 100025,
@@ -2569,13 +2569,13 @@
             2
         ],
         "description_effect": "ATK-10%",
-        "description": "I always liked magic circles."
+        "description": "Always thought the Magic Square is convenient."
     },
     {
         "id": 100026,
         "resource_id": 0,
-        "name": "Galaxy Comet",
-        "name_battle": "Galaxy \nComet",
+        "name": "Sword Inferno",
+        "name_battle": "Sword \nInferno",
         "command_category": 1,
         "attr": 4,
         "max_lv": 30,
@@ -2613,7 +2613,7 @@
             2
         ],
         "description_effect": "ATK-10%",
-        "description": "A somewhat annoying skill of galactic proportions."
+        "description": "An annoying skill that involves the whole galaxy."
     },
     {
         "id": 100027,
@@ -2690,7 +2690,7 @@
             2
         ],
         "description_effect": "ATK-10%",
-        "description": "The mirage already knows which way you'll dodge."
+        "description": "It will hit you no matter what."
     },
     {
         "id": 100028,
@@ -2734,7 +2734,7 @@
             2
         ],
         "description_effect": "ATK-10%",
-        "description": "How to train your arrows to become dragons."
+        "description": "The height of bowmanship. Applauded through the ages."
     },
     {
         "id": 100029,
@@ -2778,7 +2778,7 @@
             1
         ],
         "description_effect": "SPD-5%",
-        "description": "An intellectual skill that takes ricochets into account."
+        "description": "A skill for nerds that requires massive ballistic trajectory calculation."
     },
     {
         "id": 100030,
@@ -2822,7 +2822,7 @@
             1
         ],
         "description_effect": "SPD-5%",
-        "description": "Note: not guaranteed to end in victory."
+        "description": "Don't think you win the victory right after shooting that!"
     },
     {
         "id": 100031,
@@ -2866,13 +2866,13 @@
             2
         ],
         "description_effect": "SPD-5%",
-        "description": "It doesn't take a craftsman to to hit with a shotgun."
+        "description": "Is this the right way to use a magic circle?"
     },
     {
         "id": 100032,
         "resource_id": 0,
-        "name": "Magical Rain",
-        "name_battle": "Magical \nRain",
+        "name": "Homing Eraser",
+        "name_battle": "Homing \nEraser",
         "command_category": 1,
         "attr": 0,
         "max_lv": 30,
@@ -2910,13 +2910,13 @@
             2
         ],
         "description_effect": "SPD-5%",
-        "description": "Don't go singing in this rain."
+        "description": "Looks like a shot imbued with mental energy."
     },
     {
         "id": 100033,
         "resource_id": 0,
-        "name": "Rapid Launcher",
-        "name_battle": "Rapid \nLauncher",
+        "name": "Top Shot",
+        "name_battle": "Top \nShot",
         "command_category": 1,
         "attr": 0,
         "max_lv": 30,
@@ -2954,7 +2954,7 @@
             2
         ],
         "description_effect": "SPD-5%",
-        "description": "Break the limits of speed! Rapid Fire!"
+        "description": "Beyond the speed! Rapid Fire!!"
     },
     {
         "id": 100034,
@@ -2998,7 +2998,7 @@
             2
         ],
         "description_effect": "SPD-5%",
-        "description": "Fiery cross formed upon the death of an angel."
+        "description": "That sounds hot."
     },
     {
         "id": 100035,
@@ -3042,7 +3042,7 @@
             2
         ],
         "description_effect": "SPD-5%",
-        "description": "Like hell frozen over, an icy blast shot from an angel arm."
+        "description": "The height of gunmanship. Lauded through the ages."
     },
     {
         "id": 100036,
@@ -3087,7 +3087,7 @@
             1
         ],
         "description_effect": "DEF-10%",
-        "description": "Works great on even the thickest of skulls."
+        "description": "Works well on stone heads."
     },
     {
         "id": 100037,
@@ -3186,7 +3186,7 @@
             1
         ],
         "description_effect": "DEF-10%",
-        "description": "Once I start swinging, it's out of my hands!"
+        "description": "Nothing we can do now."
     },
     {
         "id": 100039,
@@ -3231,7 +3231,7 @@
             1
         ],
         "description_effect": "DEF-10%",
-        "description": "Slam it to the ends of the galaxy!"
+        "description": "Fly to the end of the universe!"
     },
     {
         "id": 100040,
@@ -3275,7 +3275,7 @@
             2
         ],
         "description_effect": "DEF-10%",
-        "description": "To be used with Gravity Nails."
+        "description": "Not for nails at least."
     },
     {
         "id": 100041,
@@ -3319,7 +3319,7 @@
             1
         ],
         "description_effect": "DEF-10%",
-        "description": "Shattered dreams are what broke the stars."
+        "description": "Destroying stars? That's a dream."
     },
     {
         "id": 100042,
@@ -3365,7 +3365,7 @@
             2
         ],
         "description_effect": "DEF-10%",
-        "description": "It destroys, what did you expect?"
+        "description": "That destructive power is jaw-dropping."
     },
     {
         "id": 200043,
@@ -5873,7 +5873,7 @@
             1
         ],
         "description_effect": "-",
-        "description": "Lay the smack down with a hellfire infused fist."
+        "description": "Laharl's skill which sends the enemy to Purgatory with the blaze on his fist."
     },
     {
         "id": 3000012,
@@ -5911,7 +5911,7 @@
             2
         ],
         "description_effect": "-",
-        "description": "Laharl's temper creates the legendary power known as Fireballs."
+        "description": "Laharl's special move with which he controls the Bolide, the symbol of magic."
     },
     {
         "id": 3000013,
@@ -5955,13 +5955,13 @@
             2
         ],
         "description_effect": "Action Gauge -100",
-        "description": "Laharl's skill. Now with more Meteor and more Impact!"
+        "description": "More ignited than usual, Laharl's most dangerous secret skill."
     },
     {
         "id": 3000014,
         "resource_id": 0,
-        "name": "Overlord Dimension",
-        "name_battle": "Overlord \nDimension",
+        "name": "Overlord Realm",
+        "name_battle": "Overlord \nRealm",
         "command_category": 3,
         "attr": 0,
         "max_lv": 30,
@@ -5999,7 +5999,7 @@
             1
         ],
         "description_effect": "Action Gauge -300",
-        "description": "Laharl's super final move. Witness his Overlordness!"
+        "description": "A glimpse of his quality as an Overlord, Laharl's final dimensional secret skill."
     },
     {
         "id": 3000021,
@@ -6038,7 +6038,7 @@
             1
         ],
         "description_effect": "-",
-        "description": "Unleash the roar of a spirit in the palm of your hand."
+        "description": "A demon fist technique with the battlecry of the soul imbued in the fists."
     },
     {
         "id": 3000022,
@@ -6076,7 +6076,7 @@
             2
         ],
         "description_effect": "-",
-        "description": "This hand of mine is burning red!"
+        "description": "My knuckles are burning red!"
     },
     {
         "id": 3000023,
@@ -6126,7 +6126,7 @@
             1
         ],
         "description_effect": "-",
-        "description": "Cleanse the mind of evil to perform this final Ultimate Demon Technique."
+        "description": "The final secret skill of the Ultimate Demon Techniques, performed by completely discarding the evil minds."
     },
     {
         "id": 3000024,
@@ -6199,13 +6199,13 @@
             1
         ],
         "description_effect": "Action Gauge -300",
-        "description": "The real Ultimate Demon Technique is the friends we made along the way."
+        "description": "The ultimate secret skill of the Ultimate Demon Techniques that gains power from friendship."
     },
     {
         "id": 3000031,
         "resource_id": 0,
-        "name": "Kazikli Bey",
-        "name_battle": "Kazikli \nBey",
+        "name": "Kazikli Bay",
+        "name_battle": "Kazikli \nBay",
         "command_category": 3,
         "attr": 0,
         "max_lv": 30,
@@ -6287,7 +6287,7 @@
             2
         ],
         "description_effect": "Action Gauge -100",
-        "description": "Welcome to my world. You'll be packed like Sardines."
+        "description": "Cry like sardines!"
     },
     {
         "id": 3000033,
@@ -6330,8 +6330,8 @@
     {
         "id": 3000041,
         "resource_id": 0,
-        "name": "Crimson Flame",
-        "name_battle": "Crimson Flame",
+        "name": "Crimson Flurry",
+        "name_battle": "Crimson Flurry",
         "command_category": 3,
         "attr": 1,
         "max_lv": 30,
@@ -6363,7 +6363,7 @@
             1
         ],
         "description_effect": "-",
-        "description": "Crimson fire destroys all."
+        "description": "Furious like a crimson storm."
     },
     {
         "id": 3000042,
@@ -6470,7 +6470,7 @@
             1
         ],
         "description_effect": "Action Gauge -300",
-        "description": "Enemies will perish in the flames of justice."
+        "description": "Blaze of rage, like Vulcan shaking the ground."
     },
     {
         "id": 3000051,
@@ -6514,8 +6514,8 @@
     {
         "id": 3000052,
         "resource_id": 0,
-        "name": "Shine Beam",
-        "name_battle": "Shine \nBeam",
+        "name": "Flash! Shine Beam",
+        "name_battle": "Flash! Shine \nBeam",
         "command_category": 3,
         "attr": 4,
         "max_lv": 30,
@@ -6712,7 +6712,7 @@
             2
         ],
         "description_effect": "-",
-        "description": "Unleash the power of purgatory. It's chaotic and impactful."
+        "description": "The ultimate secret skill of Etna who governs destruction and purgatory."
     },
     {
         "id": 3000064,
@@ -6750,13 +6750,13 @@
             1
         ],
         "description_effect": "-",
-        "description": "Etna's ultimate skill. Watch her unleash her dormant powers."
+        "description": "The final secret skill of Etna who's losing control of her hidden powers."
     },
     {
         "id": 3000071,
         "resource_id": 0,
-        "name": "Love Knuckle",
-        "name_battle": "Love Knuckle",
+        "name": "Love Punch",
+        "name_battle": "Love Punch",
         "command_category": 3,
         "attr": 0,
         "max_lv": 30,
@@ -6788,13 +6788,13 @@
             1
         ],
         "description_effect": "-",
-        "description": "It's basically a full-power fist of love! That's true love!"
+        "description": "The all-out fist of love! This is love."
     },
     {
         "id": 3000072,
         "resource_id": 0,
-        "name": "Skull Dra-Meow",
-        "name_battle": "Skull \nDra-Meow",
+        "name": "Skeletal Meow",
+        "name_battle": "Skeletal \nMeow",
         "command_category": 3,
         "attr": 0,
         "max_lv": 30,
@@ -6864,7 +6864,7 @@
             2
         ],
         "description_effect": "-",
-        "description": "Deadly Arrows have fallen in love with you."
+        "description": "Kill you with the power of love!"
     },
     {
         "id": 3000074,
@@ -6908,7 +6908,7 @@
             4
         ],
         "description_effect": "RES+30%",
-        "description": "GRAAAAR, I'm a giant space monster~♪"
+        "description": "GRAAAAR, here comes the monster~♪"
     },
     {
         "id": 3000081,
@@ -6993,13 +6993,13 @@
             2
         ],
         "description_effect": "-",
-        "description": "Witness the elegant dance of a dual-wielder."
+        "description": "Witness the dance of the dual guns!"
     },
     {
         "id": 3000083,
         "resource_id": 0,
-        "name": "Battle Orchestra",
-        "name_battle": "Battle \nOrchestra",
+        "name": "Battle Band",
+        "name_battle": "Battle \nBand",
         "command_category": 3,
         "attr": 0,
         "max_lv": 30,
@@ -7042,8 +7042,8 @@
     {
         "id": 3000091,
         "resource_id": 0,
-        "name": "Bomb-Bat-Stic",
-        "name_battle": "Bomb-Bat-Stic",
+        "name": "Bomb Knock",
+        "name_battle": "Bomb Knock",
         "command_category": 3,
         "attr": 1,
         "max_lv": 30,
@@ -7081,7 +7081,7 @@
             1
         ],
         "description_effect": "DEF-12%",
-        "description": "Hey batter, batter... swing!"
+        "description": "Let's go -! Ready, boom!"
     },
     {
         "id": 3000092,
@@ -7125,7 +7125,7 @@
             1
         ],
         "description_effect": "DEF-12%",
-        "description": "Wh-What!? A flash mob baseball game!?"
+        "description": "No way, not gonna hit!?"
     },
     {
         "id": 3000093,
@@ -7169,13 +7169,13 @@
             2
         ],
         "description_effect": "DEF-12%",
-        "description": "C'mon out, Obsidian Bird Pringer X! Burn everything!"
+        "description": "Emerge! The black monster bird, Pringer X!"
     },
     {
         "id": 3000101,
         "resource_id": 0,
-        "name": "Rose Thorns",
-        "name_battle": "Rose \nThorns",
+        "name": "Rose Volley",
+        "name_battle": "Rose \nVolley",
         "command_category": 3,
         "attr": 0,
         "max_lv": 30,
@@ -7207,7 +7207,7 @@
             1
         ],
         "description_effect": "-",
-        "description": "Fearsome yet elegant, flower of death blooms in red."
+        "description": "A beautiful yet violent blooming flower."
     },
     {
         "id": 3000102,
@@ -7251,7 +7251,7 @@
             1
         ],
         "description_effect": "-",
-        "description": "It's a beautiful shot reminiscent of roses."
+        "description": "A rose-like pretty shot."
     },
     {
         "id": 3000103,
@@ -7289,7 +7289,7 @@
             2
         ],
         "description_effect": "-",
-        "description": "When the slumbering evil awakens, multiple ice flowers bloom."
+        "description": "Countless icicles bloom when the sleeping demon awakens."
     },
     {
         "id": 3000104,
@@ -7333,7 +7333,7 @@
             4
         ],
         "description_effect": "INT+30%",
-        "description": "When her past is revealed, the world will end."
+        "description": "The earth will be soaked with blood when the past awakens."
     },
     {
         "id": 3000111,
@@ -7377,7 +7377,7 @@
             5
         ],
         "description_effect": "Lesser Healing",
-        "description": "Don't you want it? Don't be shy!"
+        "description": "You've been wanting this right? Don't be shy!!"
     },
     {
         "id": 3000112,
@@ -7497,7 +7497,7 @@
             1
         ],
         "description_effect": "-",
-        "description": "Can you handle the wild side?"
+        "description": "A hot but unnecessary blow to you...."
     },
     {
         "id": 3000122,
@@ -7535,7 +7535,7 @@
             1
         ],
         "description_effect": "-",
-        "description": "The wolves I've fed in secret begin to rampage!"
+        "description": "The wolf I've been feeding secretly is on a rampage."
     },
     {
         "id": 3000123,
@@ -7573,7 +7573,7 @@
             2
         ],
         "description_effect": "-",
-        "description": "No one sees this moonlight beast and lives!"
+        "description": "No one sees this and lives!"
     },
     {
         "id": 3000131,
@@ -7762,7 +7762,7 @@
             1
         ],
         "description_effect": "Bestows \"Forget\" effect.",
-        "description": "It's all part of the job."
+        "description": "Execute the work of Death well."
     },
     {
         "id": 3000142,
@@ -8014,7 +8014,7 @@
             1
         ],
         "description_effect": "-",
-        "description": "Lay the smack down with a hellfire infused fist."
+        "description": "Girl Laharl's skill which ends the enemy with the blaze on her fist."
     },
     {
         "id": 3000162,
@@ -8101,8 +8101,8 @@
     {
         "id": 3000164,
         "resource_id": 0,
-        "name": "Overlord Dimension",
-        "name_battle": "Overlord \nDimension",
+        "name": "Overlord Realm",
+        "name_battle": "Overlord \nRealm",
         "command_category": 3,
         "attr": 0,
         "max_lv": 30,
@@ -8140,7 +8140,7 @@
             1
         ],
         "description_effect": "Action Gauge -300",
-        "description": "Laharl's super final move. Witness her(?) Overlordness!"
+        "description": "Girl Laharl's final dimensional secret skill that shows her quality as an Overlord."
     },
     {
         "id": 3000171,
@@ -8302,7 +8302,7 @@
             1
         ],
         "description_effect": "-",
-        "description": "Unleash the roar of a spirit on the soles of your feet."
+        "description": "A demon fist technique with the battlecry of the soul imbued in the feet."
     },
     {
         "id": 3000182,
@@ -8340,7 +8340,7 @@
             2
         ],
         "description_effect": "-",
-        "description": "This hand of mine is burning red!"
+        "description": "My knuckles are burning red!"
     },
     {
         "id": 3000183,
@@ -8384,13 +8384,13 @@
             5
         ],
         "description_effect": "SPD+15%",
-        "description": "It's a cool-sounding skill that took 3 days to name."
+        "description": "It took him 3 days to come up with this cool name."
     },
     {
         "id": 3000191,
         "resource_id": 0,
-        "name": "Steel Arm Lariat",
-        "name_battle": "Steel Arm Lariat",
+        "name": "Armstrong Slam",
+        "name_battle": "Armstrong Slam",
         "command_category": 3,
         "attr": 0,
         "max_lv": 30,
@@ -8554,7 +8554,7 @@
             2
         ],
         "description_effect": "-",
-        "description": "She's just copying Laharl, but with angel power."
+        "description": "I mimicked my brother's technique and this came up!"
     },
     {
         "id": 3000212,
@@ -8592,7 +8592,7 @@
             2
         ],
         "description_effect": "-",
-        "description": "Sicily is so much nicer to the Prinnies!"
+        "description": "That's right, Mistress Sicily's got her own way of using Prinnies, dood!"
     },
     {
         "id": 3000213,
@@ -9280,8 +9280,8 @@
     {
         "id": 3000331,
         "resource_id": 0,
-        "name": "Love Knuckle",
-        "name_battle": "Love Knuckle",
+        "name": "Love Punch",
+        "name_battle": "Love Punch",
         "command_category": 3,
         "attr": 0,
         "max_lv": 30,
@@ -9351,7 +9351,7 @@
             2
         ],
         "description_effect": "-",
-        "description": "Yes! Fallen Arrows!"
+        "description": "Yes! Arrow Storm"
     },
     {
         "id": 3000333,
@@ -9439,13 +9439,13 @@
             2
         ],
         "description_effect": "ATK-10%",
-        "description": "This is the ultimate proof of Flonne's love!"
+        "description": "This is my, ultimate, proof of love!!"
     },
     {
         "id": 3000341,
         "resource_id": 0,
-        "name": "Love Knuckle",
-        "name_battle": "Love Knuckle",
+        "name": "Love Punch",
+        "name_battle": "Love Punch",
         "command_category": 3,
         "attr": 0,
         "max_lv": 30,
@@ -9477,7 +9477,7 @@
             1
         ],
         "description_effect": "-",
-        "description": "It's basically a full-power fist of love! That's true love!"
+        "description": "The all-out fist of love! This is love."
     },
     {
         "id": 3000342,
@@ -9591,7 +9591,7 @@
             2
         ],
         "description_effect": "-",
-        "description": "Great Flonzor X's Fist with the Power of Love! "
+        "description": "Fist on Power of Love! Great Flonzor X"
     },
     {
         "id": 3000351,
@@ -9796,13 +9796,13 @@
             5
         ],
         "description_effect": "RES+25%",
-        "description": "Such a gentle touch, but it's still brutal."
+        "description": "Feels gentle. But doesn't look that way."
     },
     {
         "id": 3000363,
         "resource_id": 0,
-        "name": "Goddess Artemis",
-        "name_battle": "Goddess \nArtemis",
+        "name": "Goddess - Artemis",
+        "name_battle": "Goddess - \nArtemis",
         "command_category": 3,
         "attr": 0,
         "max_lv": 30,
@@ -9889,8 +9889,8 @@
     {
         "id": 3000372,
         "resource_id": 0,
-        "name": "Self Defense",
-        "name_battle": "Self \nDefense",
+        "name": "Protection of the Holy Church",
+        "name_battle": "Protection \nof the Holy Church",
         "command_category": 3,
         "attr": 3,
         "max_lv": 30,
@@ -9935,8 +9935,8 @@
     {
         "id": 3000373,
         "resource_id": 0,
-        "name": "Nun Punishment",
-        "name_battle": "Nun \nPunishment",
+        "name": "Saintly Spanking!",
+        "name_battle": "Saintly \nSpanking!",
         "command_category": 3,
         "attr": 0,
         "max_lv": 30,
@@ -10017,8 +10017,8 @@
     {
         "id": 3000382,
         "resource_id": 0,
-        "name": "Bloody Sting",
-        "name_battle": "Bloody \nSting",
+        "name": "Blood Sting",
+        "name_battle": "Blood \nSting",
         "command_category": 3,
         "attr": 0,
         "max_lv": 30,
@@ -10056,13 +10056,13 @@
             5
         ],
         "description_effect": "Medium Healing",
-        "description": "Strike fear in the corrupted!"
+        "description": "Fear for the fallen."
     },
     {
         "id": 3000383,
         "resource_id": 0,
-        "name": "Emperor Flughunde",
-        "name_battle": "Emperor \nFlughunde",
+        "name": "Netherlord Bat",
+        "name_battle": "Netherlord \nBat",
         "command_category": 3,
         "attr": 4,
         "max_lv": 30,
@@ -10100,7 +10100,7 @@
             2
         ],
         "description_effect": "Action Gauge -250",
-        "description": "A tyrannical death to the weak."
+        "description": "Violent death for the weak."
     },
     {
         "id": 3000391,
@@ -10139,7 +10139,7 @@
             1
         ],
         "description_effect": "-",
-        "description": "Unleash the roar of a spirit in the palm of your hand."
+        "description": "A demon fist technique with the battlecry of the soul imbued in the fists."
     },
     {
         "id": 3000392,
@@ -10177,7 +10177,7 @@
             2
         ],
         "description_effect": "-",
-        "description": "This hand of mine is burning red!"
+        "description": "My knuckles are burning red!"
     },
     {
         "id": 3000393,
@@ -10227,7 +10227,7 @@
             1
         ],
         "description_effect": "-",
-        "description": "Cleanse the mind of evil to perform this final Ultimate Demon Technique."
+        "description": "The final secret skill of the Ultimate Demon Techniques, performed by completely discarding the evil minds."
     },
     {
         "id": 3000394,
@@ -10300,7 +10300,7 @@
             1
         ],
         "description_effect": "Action Gauge -300",
-        "description": "The real Ultimate Demon Technique is the friends we made along the way."
+        "description": "The ultimate secret skill of the Ultimate Demon Techniques that gains power from friendship."
     },
     {
         "id": 3000401,
@@ -10603,7 +10603,7 @@
             2
         ],
         "description_effect": "-",
-        "description": "Unleash the power of purgatory. It's chaotic and impactful."
+        "description": "The ultimate secret skill of Etna who governs destruction and purgatory."
     },
     {
         "id": 3000414,
@@ -10641,7 +10641,7 @@
             1
         ],
         "description_effect": "-",
-        "description": "Etna's ultimate skill. Watch her unleash her dormant powers."
+        "description": "The final secret skill of Etna who's losing control of her hidden powers."
     },
     {
         "id": 3000421,
@@ -10761,7 +10761,7 @@
             2
         ],
         "description_effect": "-",
-        "description": "Unleash the power of purgatory. It's chaotic and impactful."
+        "description": "The ultimate secret skill of Etna who governs destruction and purgatory."
     },
     {
         "id": 3000424,
@@ -10799,7 +10799,7 @@
             1
         ],
         "description_effect": "-",
-        "description": "Etna's ultimate skill. Watch her unleash her dormant powers."
+        "description": "The final secret skill of Etna who's losing control of her hidden powers."
     },
     {
         "id": 3000441,
@@ -10843,7 +10843,7 @@
             5
         ],
         "description_effect": "ATK+5%",
-        "description": "Gordon's secret skill from beyond the stars."
+        "description": "Gordon's exclusive skill, in which lie dreams for the stars."
     },
     {
         "id": 3000442,
@@ -10887,7 +10887,7 @@
             5
         ],
         "description_effect": "ATK+25%",
-        "description": "Gordon's secret skill from the love of the Earth."
+        "description": "Gordon's exclusive skill, in which lies love for the Earth."
     },
     {
         "id": 3000443,
@@ -10931,7 +10931,7 @@
             5
         ],
         "description_effect": "ATK+30%",
-        "description": "Gordon's most secret skill, from the power of his friendship."
+        "description": "The best of Gordon's exclusive skills, which is for his companions."
     },
     {
         "id": 3000451,
@@ -10975,7 +10975,7 @@
             5
         ],
         "description_effect": "SPD+3%",
-        "description": "Jennifer's skill can crush a meteor into bits and pieces.."
+        "description": "Jennifer's exclusive skill which can crush a meteor into bits and pieces."
     },
     {
         "id": 3000452,
@@ -11019,7 +11019,7 @@
             5
         ],
         "description_effect": "ATK+25%",
-        "description": "Jennifer's skill unleashes the life energy of the universe."
+        "description": "Jennifer's exclusive skill which unleashes the life energy of the universe."
     },
     {
         "id": 3000453,
@@ -11115,8 +11115,8 @@
     {
         "id": 3000462,
         "resource_id": 0,
-        "name": "Chef's Special",
-        "name_battle": "Chef's \nSpecial",
+        "name": "The Chef's Recommendation",
+        "name_battle": "The Chef's \nRecommendation",
         "command_category": 3,
         "attr": 0,
         "max_lv": 30,
@@ -11333,8 +11333,8 @@
     {
         "id": 3000481,
         "resource_id": 0,
-        "name": "Hyojin Setsugetsuka",
-        "name_battle": "Hyojin Setsugetsuka",
+        "name": "Icey Setsugetsuka",
+        "name_battle": "Icey Setsugetsuka",
         "command_category": 3,
         "attr": 2,
         "max_lv": 30,
@@ -11371,8 +11371,8 @@
     {
         "id": 3000482,
         "resource_id": 0,
-        "name": "Shunsetsuza",
-        "name_battle": "Shunsetsuza",
+        "name": "Icey Shunsetsuza",
+        "name_battle": "Icey Shunsetsuza",
         "command_category": 3,
         "attr": 2,
         "max_lv": 30,
@@ -11461,8 +11461,8 @@
     {
         "id": 3000491,
         "resource_id": 0,
-        "name": "Rose Thorns+",
-        "name_battle": "Rose \nThorns+",
+        "name": "Rose Volley+",
+        "name_battle": "Rose \nVolley+",
         "command_category": 3,
         "attr": 3,
         "max_lv": 30,
@@ -11655,8 +11655,8 @@
     {
         "id": 3000501,
         "resource_id": 0,
-        "name": "Love Knuckle",
-        "name_battle": "Love Knuckle",
+        "name": "Love Punch",
+        "name_battle": "Love Punch",
         "command_category": 3,
         "attr": 1,
         "max_lv": 30,
@@ -12358,8 +12358,8 @@
     {
         "id": 3000564,
         "resource_id": 0,
-        "name": "Bliss Libertation",
-        "name_battle": "Bliss \nLiberation",
+        "name": "Blissful Liberty",
+        "name_battle": "Blissful \nLiberty",
         "command_category": 3,
         "attr": 2,
         "max_lv": 30,
@@ -12397,7 +12397,7 @@
             5
         ],
         "description_effect": "ATK+30%",
-        "description": "Auspicious flowers bloom as the blissful princess dances."
+        "description": "Auspicious flowers bloom as the attired princess dances."
     },
     {
         "id": 3000571,
@@ -12974,8 +12974,8 @@
     {
         "id": 3000602,
         "resource_id": 0,
-        "name": "Bunny Celebration",
-        "name_battle": "Bunny \nCelebration",
+        "name": "Celebrate! Easter",
+        "name_battle": "Celebrate! \nEaster",
         "command_category": 3,
         "attr": 0,
         "max_lv": 30,
@@ -13062,8 +13062,8 @@
     {
         "id": 3000604,
         "resource_id": 0,
-        "name": "Bunny Trial",
-        "name_battle": "Bunny \nTrial",
+        "name": "Easter Trial",
+        "name_battle": "Easter \nTrial",
         "command_category": 3,
         "attr": 0,
         "max_lv": 30,
@@ -16110,8 +16110,8 @@
     {
         "id": 3100191,
         "resource_id": 0,
-        "name": "Ninja Art: Switch",
-        "name_battle": "Ninja Art: \nSwitch",
+        "name": "Ninja Switch",
+        "name_battle": "Ninja \nSwitch",
         "command_category": 3,
         "attr": 0,
         "max_lv": 30,
@@ -16148,8 +16148,8 @@
     {
         "id": 3100192,
         "resource_id": 0,
-        "name": "Ninja Art: Darkness",
-        "name_battle": "Ninja Art: Darkness",
+        "name": "Ninja Camouflage",
+        "name_battle": "Ninja Camouflage",
         "command_category": 3,
         "attr": 0,
         "max_lv": 30,
@@ -16865,7 +16865,7 @@
         "effect_targets": [
             3
         ],
-        "description_effect": "Resuscitation",
+        "description_effect": "Resurrection",
         "description": "Resurrects a random friendly target."
     },
     {
@@ -17259,8 +17259,8 @@
     {
         "id": 3200031,
         "resource_id": 0,
-        "name": "Final Boss Arises",
-        "name_battle": "Final Boss \nArises",
+        "name": "Boss' Revenge",
+        "name_battle": "Boss' \nRevenge",
         "command_category": 3,
         "attr": 4,
         "max_lv": 30,
@@ -17374,13 +17374,13 @@
             2
         ],
         "description_effect": "-",
-        "description": "Desco's final form! No one can stop Desco!"
+        "description": "This is the final form! No one stops Desco!"
     },
     {
         "id": 3200041,
         "resource_id": 0,
-        "name": "Final Boss Arises Z",
-        "name_battle": "Final Boss \nArises Z",
+        "name": "Boss' Revenge Z",
+        "name_battle": "Boss' \nRevenge Z",
         "command_category": 3,
         "attr": 4,
         "max_lv": 30,
@@ -18466,7 +18466,7 @@
             2
         ],
         "description_effect": "ATK-10%",
-        "description": "Get out there and donate your time... and blood!"
+        "description": "Remember to pick up trash in school! And don't forget about raising money for environmental protection!"
     },
     {
         "id": 3200183,
@@ -18510,7 +18510,7 @@
             4
         ],
         "description_effect": "INT+30%",
-        "description": "Remember to think green!"
+        "description": "Keep the eco-awareness in your mind!"
     },
     {
         "id": 3200201,
@@ -18788,8 +18788,8 @@
     {
         "id": 3200213,
         "resource_id": 0,
-        "name": "Prinny Boardgames",
-        "name_battle": "Prinny \nBoardgames",
+        "name": "Prinny Sugoroku",
+        "name_battle": "Prinny \nSugoroku",
         "command_category": 3,
         "attr": 0,
         "max_lv": 30,
@@ -19403,8 +19403,8 @@
     {
         "id": 3210044,
         "resource_id": 0,
-        "name": "Sand Wyrm Impact",
-        "name_battle": "Sand Wyrm \nImpact",
+        "name": "Yes! Earthshaker!",
+        "name_battle": "Yes! \nEarthshaker!",
         "command_category": 3,
         "attr": 0,
         "max_lv": 30,
@@ -20244,7 +20244,7 @@
             2
         ],
         "description_effect": "Bestows \"Poison\" effect",
-        "description": "Zom + Beam = Zombeam"
+        "description": "Zom+Beam=Zombeam"
     },
     {
         "id": 3210154,
@@ -20415,7 +20415,7 @@
             2
         ],
         "description_effect": "Bestows \"Poison\" effect",
-        "description": "Zom + Beam = Zombeam"
+        "description": "Zom+Beam=Zombeam"
     },
     {
         "id": 3210164,
@@ -20588,8 +20588,8 @@
     {
         "id": 3210174,
         "resource_id": 0,
-        "name": "Gold Moon Judgement",
-        "name_battle": "Gold Moon Judgement",
+        "name": "Golden Moon Wrath",
+        "name_battle": "Golden Moon Wrath",
         "command_category": 3,
         "attr": 4,
         "max_lv": 30,
@@ -22706,8 +22706,8 @@
     {
         "id": 3300134,
         "resource_id": 0,
-        "name": "Gold Moon Judgement",
-        "name_battle": "Gold Moon Judgement",
+        "name": "Golden Moon Wrath",
+        "name_battle": "Golden Moon Wrath",
         "command_category": 3,
         "attr": 4,
         "max_lv": 30,
@@ -22868,8 +22868,8 @@
     {
         "id": 3300144,
         "resource_id": 0,
-        "name": "Gold Moon Judgement",
-        "name_battle": "Gold Moon Judgement",
+        "name": "Golden Moon Wrath",
+        "name_battle": "Golden Moon Wrath",
         "command_category": 3,
         "attr": 4,
         "max_lv": 30,
@@ -23030,8 +23030,8 @@
     {
         "id": 3300154,
         "resource_id": 0,
-        "name": "Gold Moon Judgement",
-        "name_battle": "Gold Moon Judgement",
+        "name": "Golden Moon Wrath",
+        "name_battle": "Golden Moon Wrath",
         "command_category": 3,
         "attr": 4,
         "max_lv": 30,
@@ -23192,8 +23192,8 @@
     {
         "id": 3300164,
         "resource_id": 0,
-        "name": "Gold Moon Judgement",
-        "name_battle": "Gold Moon Judgement",
+        "name": "Golden Moon Wrath",
+        "name_battle": "Golden Moon Wrath",
         "command_category": 3,
         "attr": 4,
         "max_lv": 30,
@@ -24656,8 +24656,8 @@
     {
         "id": 3300253,
         "resource_id": 0,
-        "name": "Cat Meteor Fist",
-        "name_battle": "Cat Meteor \nFist",
+        "name": "Cat Stream Fist",
+        "name_battle": "Cat \nStream Fist",
         "command_category": 3,
         "attr": 0,
         "max_lv": 30,
@@ -24694,8 +24694,8 @@
     {
         "id": 3300254,
         "resource_id": 0,
-        "name": "Slumber Acrobatics",
-        "name_battle": "Slumber Acrobatics",
+        "name": "Sleep Acrobatics",
+        "name_battle": "Sleep Acrobatics",
         "command_category": 3,
         "attr": 0,
         "max_lv": 30,
@@ -24824,8 +24824,8 @@
     {
         "id": 3300263,
         "resource_id": 0,
-        "name": "Cat Meteor Fist",
-        "name_battle": "Cat Meteor \nFist",
+        "name": "Cat Stream Fist",
+        "name_battle": "Cat \nStream Fist",
         "command_category": 3,
         "attr": 0,
         "max_lv": 30,
@@ -24862,8 +24862,8 @@
     {
         "id": 3300264,
         "resource_id": 0,
-        "name": "Slumber Acrobatics",
-        "name_battle": "Slumber Acrobatics",
+        "name": "Sleep Acrobatics",
+        "name_battle": "Sleep Acrobatics",
         "command_category": 3,
         "attr": 0,
         "max_lv": 30,
@@ -24992,8 +24992,8 @@
     {
         "id": 3300273,
         "resource_id": 0,
-        "name": "Cat Meteor Fist",
-        "name_battle": "Cat Meteor \nFist",
+        "name": "Cat Stream Fist",
+        "name_battle": "Cat \nStream Fist",
         "command_category": 3,
         "attr": 0,
         "max_lv": 30,
@@ -25030,8 +25030,8 @@
     {
         "id": 3300274,
         "resource_id": 0,
-        "name": "Slumber Acrobatics",
-        "name_battle": "Slumber Acrobatics",
+        "name": "Sleep Acrobatics",
+        "name_battle": "Sleep Acrobatics",
         "command_category": 3,
         "attr": 0,
         "max_lv": 30,
@@ -25160,8 +25160,8 @@
     {
         "id": 3300283,
         "resource_id": 0,
-        "name": "Cat Meteor Fist",
-        "name_battle": "Cat Meteor \nFist",
+        "name": "Cat Stream Fist",
+        "name_battle": "Cat \nStream Fist",
         "command_category": 3,
         "attr": 0,
         "max_lv": 30,
@@ -25198,8 +25198,8 @@
     {
         "id": 3300284,
         "resource_id": 0,
-        "name": "Slumber Acrobatics",
-        "name_battle": "Slumber Acrobatics",
+        "name": "Sleep Acrobatics",
+        "name_battle": "Sleep Acrobatics",
         "command_category": 3,
         "attr": 0,
         "max_lv": 30,
@@ -26056,7 +26056,7 @@
             2
         ],
         "description_effect": "Bestows \"Poison\" effect",
-        "description": "Zom + Beam = Zombeam"
+        "description": "Zom+Beam=Zombeam"
     },
     {
         "id": 3300334,
@@ -26227,7 +26227,7 @@
             2
         ],
         "description_effect": "Bestows \"Poison\" effect",
-        "description": "Zom + Beam = Zombeam"
+        "description": "Zom+Beam=Zombeam"
     },
     {
         "id": 3300344,
@@ -26398,7 +26398,7 @@
             2
         ],
         "description_effect": "Bestows \"Poison\" effect",
-        "description": "Zom + Beam = Zombeam"
+        "description": "Zom+Beam=Zombeam"
     },
     {
         "id": 3300354,
@@ -26569,7 +26569,7 @@
             2
         ],
         "description_effect": "Bestows \"Poison\" effect",
-        "description": "Zom + Beam = Zombeam"
+        "description": "Zom+Beam=Zombeam"
     },
     {
         "id": 3300364,
@@ -30084,8 +30084,8 @@
     {
         "id": 3300614,
         "resource_id": 0,
-        "name": "Sand Wyrm Impact",
-        "name_battle": "Sand Wyrm \nImpact",
+        "name": "Yes! Earthshaker!",
+        "name_battle": "Yes! \nEarthshaker!",
         "command_category": 3,
         "attr": 0,
         "max_lv": 30,
@@ -30252,8 +30252,8 @@
     {
         "id": 3300624,
         "resource_id": 0,
-        "name": "Sand Wyrm Impact",
-        "name_battle": "Sand Wyrm \nImpact",
+        "name": "Yes! Earthshaker!",
+        "name_battle": "Yes! \nEarthshaker!",
         "command_category": 3,
         "attr": 0,
         "max_lv": 30,
@@ -30420,8 +30420,8 @@
     {
         "id": 3300634,
         "resource_id": 0,
-        "name": "Sand Wyrm Impact",
-        "name_battle": "Sand Wyrm \nImpact",
+        "name": "Yes! Earthshaker!",
+        "name_battle": "Yes! \nEarthshaker!",
         "command_category": 3,
         "attr": 0,
         "max_lv": 30,
@@ -30588,8 +30588,8 @@
     {
         "id": 3300644,
         "resource_id": 0,
-        "name": "Sand Wyrm Impact",
-        "name_battle": "Sand Wyrm \nImpact",
+        "name": "Yes! Earthshaker!",
+        "name_battle": "Yes! \nEarthshaker!",
         "command_category": 3,
         "attr": 0,
         "max_lv": 30,
@@ -33894,8 +33894,8 @@
     {
         "id": 3300851,
         "resource_id": 0,
-        "name": "Ignis Fatuus",
-        "name_battle": "Ignis \nFatuus",
+        "name": "Ignis Fatuss",
+        "name_battle": "Ignis \nFatuss",
         "command_category": 3,
         "attr": 1,
         "max_lv": 30,
@@ -33970,8 +33970,8 @@
     {
         "id": 3300853,
         "resource_id": 0,
-        "name": "Spirit Puppet Show",
-        "name_battle": "Spirit \nPuppet Show",
+        "name": "Spirit Puppets",
+        "name_battle": "Spirit \nPuppets",
         "command_category": 3,
         "attr": 0,
         "max_lv": 30,
@@ -34052,8 +34052,8 @@
     {
         "id": 3300861,
         "resource_id": 0,
-        "name": "Ignis Fatuus",
-        "name_battle": "Ignis \nFatuus",
+        "name": "Ignis Fatuss",
+        "name_battle": "Ignis \nFatuss",
         "command_category": 3,
         "attr": 1,
         "max_lv": 30,
@@ -34128,8 +34128,8 @@
     {
         "id": 3300863,
         "resource_id": 0,
-        "name": "Spirit Puppet Show",
-        "name_battle": "Spirit \nPuppet Show",
+        "name": "Spirit Puppets",
+        "name_battle": "Spirit \nPuppets",
         "command_category": 3,
         "attr": 0,
         "max_lv": 30,
@@ -34210,8 +34210,8 @@
     {
         "id": 3300871,
         "resource_id": 0,
-        "name": "Ignis Fatuus",
-        "name_battle": "Ignis \nFatuus",
+        "name": "Ignis Fatuss",
+        "name_battle": "Ignis \nFatuss",
         "command_category": 3,
         "attr": 1,
         "max_lv": 30,
@@ -34286,8 +34286,8 @@
     {
         "id": 3300873,
         "resource_id": 0,
-        "name": "Spirit Puppet Show",
-        "name_battle": "Spirit \nPuppet Show",
+        "name": "Spirit Puppets",
+        "name_battle": "Spirit \nPuppets",
         "command_category": 3,
         "attr": 0,
         "max_lv": 30,
@@ -34368,8 +34368,8 @@
     {
         "id": 3300881,
         "resource_id": 0,
-        "name": "Ignis Fatuus",
-        "name_battle": "Ignis \nFatuus",
+        "name": "Ignis Fatuss",
+        "name_battle": "Ignis \nFatuss",
         "command_category": 3,
         "attr": 1,
         "max_lv": 30,
@@ -34444,8 +34444,8 @@
     {
         "id": 3300883,
         "resource_id": 0,
-        "name": "Spirit Puppet Show",
-        "name_battle": "Spirit \nPuppet Show",
+        "name": "Spirit Puppets",
+        "name_battle": "Spirit \nPuppets",
         "command_category": 3,
         "attr": 0,
         "max_lv": 30,
@@ -35158,8 +35158,8 @@
     {
         "id": 3300971,
         "resource_id": 0,
-        "name": "Shadow Nail",
-        "name_battle": "Shadow \nNail",
+        "name": "Shade Nail",
+        "name_battle": "Shade \nNail",
         "command_category": 3,
         "attr": 0,
         "max_lv": 30,
@@ -35340,8 +35340,8 @@
     {
         "id": 3300981,
         "resource_id": 0,
-        "name": "Shadow Nail",
-        "name_battle": "Shadow \nNail",
+        "name": "Shade Nail",
+        "name_battle": "Shade \nNail",
         "command_category": 3,
         "attr": 0,
         "max_lv": 30,
@@ -35522,8 +35522,8 @@
     {
         "id": 3300991,
         "resource_id": 0,
-        "name": "Shadow Nail",
-        "name_battle": "Shadow \nNail",
+        "name": "Shade Nail",
+        "name_battle": "Shade \nNail",
         "command_category": 3,
         "attr": 0,
         "max_lv": 30,
@@ -35704,8 +35704,8 @@
     {
         "id": 3301001,
         "resource_id": 0,
-        "name": "Shadow Nail",
-        "name_battle": "Shadow \nNail",
+        "name": "Shade Nail",
+        "name_battle": "Shade \nNail",
         "command_category": 3,
         "attr": 0,
         "max_lv": 30,
@@ -37172,8 +37172,8 @@
     {
         "id": 3301172,
         "resource_id": 0,
-        "name": "Daniel Jacks",
-        "name_battle": "Daniel \nJacks",
+        "name": "Daniels Jack",
+        "name_battle": "Daniels \nJack",
         "command_category": 3,
         "attr": 0,
         "max_lv": 30,
@@ -37358,8 +37358,8 @@
     {
         "id": 3301182,
         "resource_id": 0,
-        "name": "Daniel Jacks",
-        "name_battle": "Daniel \nJacks",
+        "name": "Daniels Jack",
+        "name_battle": "Daniels \nJack",
         "command_category": 3,
         "attr": 0,
         "max_lv": 30,
@@ -37544,8 +37544,8 @@
     {
         "id": 3301192,
         "resource_id": 0,
-        "name": "Daniel Jacks",
-        "name_battle": "Daniel \nJacks",
+        "name": "Daniels Jack",
+        "name_battle": "Daniels \nJack",
         "command_category": 3,
         "attr": 0,
         "max_lv": 30,
@@ -37730,8 +37730,8 @@
     {
         "id": 3301202,
         "resource_id": 0,
-        "name": "Daniel Jacks",
-        "name_battle": "Daniel \nJacks",
+        "name": "Daniels Jack",
+        "name_battle": "Daniels \nJack",
         "command_category": 3,
         "attr": 0,
         "max_lv": 30,
@@ -38922,8 +38922,8 @@
     {
         "id": 3301293,
         "resource_id": 0,
-        "name": "Shark Whirlpool",
-        "name_battle": "Shark \nWhirlpool",
+        "name": "Nether Specialty - Shark Vortex",
+        "name_battle": "Nether Specialty - \nShark Vortex",
         "command_category": 3,
         "attr": 2,
         "max_lv": 30,
@@ -39082,8 +39082,8 @@
     {
         "id": 3301303,
         "resource_id": 0,
-        "name": "Shark Whirlpool",
-        "name_battle": "Shark \nWhirlpool",
+        "name": "Nether Specialty - Shark Vortex",
+        "name_battle": "Nether Specialty - \nShark Vortex",
         "command_category": 3,
         "attr": 2,
         "max_lv": 30,
@@ -39242,8 +39242,8 @@
     {
         "id": 3301313,
         "resource_id": 0,
-        "name": "Shark Whirlpool",
-        "name_battle": "Shark \nWhirlpool",
+        "name": "Nether Specialty - Shark Vortex",
+        "name_battle": "Nether Specialty - \nShark Vortex",
         "command_category": 3,
         "attr": 2,
         "max_lv": 30,
@@ -39402,8 +39402,8 @@
     {
         "id": 3301323,
         "resource_id": 0,
-        "name": "Shark Whirlpool",
-        "name_battle": "Shark \nWhirlpool",
+        "name": "Nether Specialty - Shark Vortex",
+        "name_battle": "Nether Specialty - \nShark Vortex",
         "command_category": 3,
         "attr": 2,
         "max_lv": 30,
@@ -40114,8 +40114,8 @@
     {
         "id": 3500021,
         "resource_id": 0,
-        "name": "Dark Howl",
-        "name_battle": "Dark Howl",
+        "name": "Overlord's Roar",
+        "name_battle": "Overlord's Roar",
         "command_category": 3,
         "attr": 4,
         "max_lv": 30,
@@ -40431,7 +40431,7 @@
             2
         ],
         "description_effect": "Removes boosts on ATK, INT and SPD.",
-        "description": "Desco's final form! No one can stop Desco!"
+        "description": "This is the final form! No one stops Desco!"
     },
     {
         "id": 3600013,
@@ -40487,6 +40487,6 @@
             2
         ],
         "description_effect": "Removes boosts on ATK, INT and SPD.",
-        "description": "Desco's final form! No one can stop Desco!"
+        "description": "This is the final form! No one stops Desco!"
     }
 ]
