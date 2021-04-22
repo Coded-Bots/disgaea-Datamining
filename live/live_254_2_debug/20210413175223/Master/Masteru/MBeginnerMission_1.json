@@ -7,7 +7,7 @@
         "target_scene": "gacha_scene",
         "priority": 1,
         "title": "Summon Character",
-        "button_text": "Summoning Pot",
+        "button_text": "Summoning Vase",
         "condition_type": 10,
         "condition_id": 0,
         "condition_num": 1,
