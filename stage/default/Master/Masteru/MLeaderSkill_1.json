@@ -1174,7 +1174,7 @@
     },
     {
         "id": 91,
-        "name": "Everyone, Come and Conquer the World!",
+        "name": "World Conquest Group",
         "unique_flg": false,
         "lv_max": 1,
         "timing_type": 1,
@@ -1210,7 +1210,7 @@
     },
     {
         "id": 92,
-        "name": "Together We Stand",
+        "name": "United we Stand",
         "unique_flg": true,
         "lv_max": 1,
         "timing_type": 1,
@@ -1462,7 +1462,7 @@
     },
     {
         "id": 111,
-        "name": "I'm the Best!",
+        "name": "Wasteful Confidence",
         "unique_flg": false,
         "lv_max": 1,
         "timing_type": 1,
@@ -1498,7 +1498,7 @@
     },
     {
         "id": 112,
-        "name": "Fists Are Talking",
+        "name": "Talking With Fists",
         "unique_flg": true,
         "lv_max": 1,
         "timing_type": 1,
@@ -1534,7 +1534,7 @@
     },
     {
         "id": 113,
-        "name": "Dark Hero Rights",
+        "name": "Dark Hero Aura",
         "unique_flg": true,
         "lv_max": 1,
         "timing_type": 1,
@@ -1570,7 +1570,7 @@
     },
     {
         "id": 114,
-        "name": "Simple Nature",
+        "name": "Obvious Tendency ",
         "unique_flg": true,
         "lv_max": 1,
         "timing_type": 1,
@@ -5477,7 +5477,7 @@
     },
     {
         "id": 562,
-        "name": "Good Luck",
+        "name": "As You Will",
         "unique_flg": true,
         "lv_max": 1,
         "timing_type": 1,
@@ -5513,7 +5513,7 @@
     },
     {
         "id": 563,
-        "name": "Princess Decides",
+        "name": "Princess' Decision",
         "unique_flg": true,
         "lv_max": 1,
         "timing_type": 3,
@@ -5551,7 +5551,7 @@
     },
     {
         "id": 564,
-        "name": "Lucky Money!",
+        "name": "New Year's Gift",
         "unique_flg": true,
         "lv_max": 1,
         "timing_type": 1,
@@ -14314,7 +14314,7 @@
     },
     {
         "id": 200213,
-        "name": "Mirror Open!",
+        "name": "Motivated for Cake",
         "unique_flg": true,
         "lv_max": 1,
         "timing_type": 1,

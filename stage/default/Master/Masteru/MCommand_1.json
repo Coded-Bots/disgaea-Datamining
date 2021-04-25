@@ -6831,8 +6831,8 @@
     {
         "id": 3000073,
         "resource_id": 0,
-        "name": "Fall In Love",
-        "name_battle": "Fall In \nLove",
+        "name": "Fallen Arrows",
+        "name_battle": "Fallen\nArrows",
         "command_category": 3,
         "attr": 0,
         "max_lv": 30,
@@ -7130,8 +7130,8 @@
     {
         "id": 3000093,
         "resource_id": 0,
-        "name": "Prinny King XX",
-        "name_battle": "Prinny \nKing XX",
+        "name": "Prinny Kaiser XX",
+        "name_battle": "Prinny \nKaiser XX",
         "command_category": 3,
         "attr": 1,
         "max_lv": 30,
@@ -7338,7 +7338,7 @@
     {
         "id": 3000111,
         "resource_id": 0,
-        "name": "This Is My Sign!",
+        "name": "My Autograph!",
         "name_battle": "This Is My \nSign!",
         "command_category": 3,
         "attr": 0,
@@ -7382,7 +7382,7 @@
     {
         "id": 3000112,
         "resource_id": 0,
-        "name": "My Heart Dulls",
+        "name": "Aching Heart",
         "name_battle": "My Heart \nDulls",
         "command_category": 3,
         "attr": 0,
@@ -7415,12 +7415,12 @@
             1
         ],
         "description_effect": "-",
-        "description": "2:00 AM, it starts to dull... My heart"
+        "description": "At 2 a.m. my heart...starts to ache!"
     },
     {
         "id": 3000113,
         "resource_id": 0,
-        "name": "Love Diamond T",
+        "name": "Love Dynamite T",
         "name_battle": "Love \nDiamond T",
         "command_category": 3,
         "attr": 3,
@@ -7459,7 +7459,7 @@
             2
         ],
         "description_effect": "Bestows \"Paralysis\" effect",
-        "description": "\"T\" is for Tribute! I'm all about respect!"
+        "description": "\"T\" stands for \"Tribute!\"! This is not...Love Dynamite!"
     },
     {
         "id": 3000121,
@@ -9318,8 +9318,8 @@
     {
         "id": 3000332,
         "resource_id": 0,
-        "name": "Fall In Love",
-        "name_battle": "Fall In \nLove",
+        "name": "Fallen Arrows",
+        "name_battle": "Fallen\nArrows",
         "command_category": 3,
         "attr": 0,
         "max_lv": 30,
