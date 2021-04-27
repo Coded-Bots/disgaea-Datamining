@@ -1697,7 +1697,7 @@
         "icon_resource_name": "",
         "recommended_flg": false,
         "recommended_message": "",
-        "open_at": "2021-04-27 02:00:00",
+        "open_at": "2021-04-24 02:00:00",
         "close_at": "2021-05-11 23:59:59"
     },
     {
@@ -1718,7 +1718,7 @@
         "icon_resource_name": "",
         "recommended_flg": false,
         "recommended_message": "",
-        "open_at": "2021-04-27 02:00:00",
+        "open_at": "2021-04-24 02:00:00",
         "close_at": "2021-05-11 23:59:59"
     },
     {
@@ -1739,7 +1739,7 @@
         "icon_resource_name": "",
         "recommended_flg": false,
         "recommended_message": "",
-        "open_at": "2021-04-27 02:00:00",
+        "open_at": "2021-04-24 02:00:00",
         "close_at": "2021-05-11 23:59:59"
     },
     {
@@ -1757,10 +1757,10 @@
         "cheaping": "",
         "pack_flg": true,
         "sort": 16,
-        "icon_resource_name": "newyear_pack_s",
-        "recommended_flg": true,
+        "icon_resource_name": "",
+        "recommended_flg": false,
         "recommended_message": "",
-        "open_at": "2020-05-12 02:00:00",
+        "open_at": "2021-04-26 02:00:00",
         "close_at": "2020-05-19 02:00:00"
     },
     {
@@ -1778,10 +1778,10 @@
         "cheaping": "",
         "pack_flg": true,
         "sort": 17,
-        "icon_resource_name": "newyear_pack_m",
-        "recommended_flg": true,
+        "icon_resource_name": "",
+        "recommended_flg": false,
         "recommended_message": "",
-        "open_at": "2020-05-12 02:00:00",
+        "open_at": "2021-04-26 02:00:00",
         "close_at": "2020-05-19 02:00:00"
     },
     {
@@ -1799,10 +1799,10 @@
         "cheaping": "",
         "pack_flg": true,
         "sort": 18,
-        "icon_resource_name": "newyear_pack_l",
-        "recommended_flg": true,
+        "icon_resource_name": "",
+        "recommended_flg": false,
         "recommended_message": "",
-        "open_at": "2020-05-12 02:00:00",
+        "open_at": "2021-04-26 02:00:00",
         "close_at": "2020-05-19 02:00:00"
     },
     {
@@ -2870,9 +2870,9 @@
         "cheaping": "",
         "pack_flg": true,
         "sort": 2,
-        "icon_resource_name": "maou_fes_ros_s",
-        "recommended_flg": true,
-        "recommended_message": "Super Value!",
+        "icon_resource_name": "",
+        "recommended_flg": false,
+        "recommended_message": "",
         "open_at": "2020-04-28 13:05:00",
         "close_at": "2020-05-03 23:59:59"
     },
@@ -2891,9 +2891,9 @@
         "cheaping": "",
         "pack_flg": true,
         "sort": 3,
-        "icon_resource_name": "maou_fes_ros_m",
-        "recommended_flg": true,
-        "recommended_message": "Super Value!",
+        "icon_resource_name": "",
+        "recommended_flg": false,
+        "recommended_message": "",
         "open_at": "2020-04-28 13:05:00",
         "close_at": "2020-05-03 23:59:59"
     },
@@ -2912,9 +2912,9 @@
         "cheaping": "",
         "pack_flg": true,
         "sort": 4,
-        "icon_resource_name": "maou_fes_ros_l",
-        "recommended_flg": true,
-        "recommended_message": "Super Value!",
+        "icon_resource_name": "",
+        "recommended_flg": false,
+        "recommended_message": "",
         "open_at": "2020-04-28 13:05:00",
         "close_at": "2020-05-03 23:59:59"
     },

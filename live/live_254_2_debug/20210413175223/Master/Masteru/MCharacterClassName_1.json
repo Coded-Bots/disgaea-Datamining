@@ -1347,13 +1347,13 @@
         "id": 383,
         "m_character_id": 38,
         "rarity": 3,
-        "class_name": "Bloodthirsty Demon"
+        "class_name": "Blood-Starved Demon"
     },
     {
         "id": 384,
         "m_character_id": 38,
         "rarity": 4,
-        "class_name": "Vampire"
+        "class_name": "Ancient Vampire"
     },
     {
         "id": 385,
@@ -2535,13 +2535,13 @@
         "id": 100033,
         "m_character_id": 10003,
         "rarity": 3,
-        "class_name": "Champ of Fighters"
+        "class_name": "Fight Artist"
     },
     {
         "id": 100034,
         "m_character_id": 10003,
         "rarity": 4,
-        "class_name": "Carnage Princess"
+        "class_name": "Champ of Fighters"
     },
     {
         "id": 100035,

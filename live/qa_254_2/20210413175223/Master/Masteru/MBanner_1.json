@@ -50,7 +50,7 @@
         "action_param": "gacha_scene",
         "option_param": "",
         "period_text": "",
-        "sort": 1,
+        "sort": 3,
         "open_at": "2021-04-17 00:00:00",
         "close_at": "2021-04-27 01:59:59"
     },
@@ -72,7 +72,7 @@
         "action_param": "gacha_scene",
         "option_param": "",
         "period_text": "",
-        "sort": 6,
+        "sort": 2,
         "open_at": "2021-01-01 00:00:00",
         "close_at": "2021-04-27 01:59:59"
     },
@@ -83,7 +83,7 @@
         "action_param": "",
         "option_param": "1",
         "period_text": "",
-        "sort": 7,
+        "sort": 2,
         "open_at": "2021-01-01 00:00:00",
         "close_at": "2021-04-27 01:59:59"
     },
@@ -94,9 +94,9 @@
         "action_param": "gacha_scene",
         "option_param": "",
         "period_text": "",
-        "sort": 6,
-        "open_at": "2020-02-08 00:00:00",
-        "close_at": "2020-02-11 23:59:59"
+        "sort": 3,
+        "open_at": "2021-04-26 02:00:00",
+        "close_at": "2021-05-01 23:59:59"
     },
     {
         "id": 14,
@@ -106,8 +106,8 @@
         "option_param": "",
         "period_text": "",
         "sort": 1,
-        "open_at": "2020-02-08 00:00:00",
-        "close_at": "2020-02-11 23:59:59"
+        "open_at": "2021-04-26 02:00:00",
+        "close_at": "2021-04-30 23:59:59"
     },
     {
         "id": 15,
@@ -161,7 +161,7 @@
         "option_param": "",
         "period_text": "",
         "sort": 2,
-        "open_at": "2021-04-27 02:00:00",
+        "open_at": "2021-04-26 02:00:00",
         "close_at": "2021-05-12 01:59:59"
     },
     {
@@ -171,8 +171,8 @@
         "action_param": "",
         "option_param": "4",
         "period_text": "",
-        "sort": 3,
-        "open_at": "2021-04-27 02:00:00",
+        "sort": 2,
+        "open_at": "2021-04-26 02:00:00",
         "close_at": "2021-05-12 01:59:59"
     },
     {
@@ -182,7 +182,7 @@
         "action_param": "gacha_scene",
         "option_param": "",
         "period_text": "",
-        "sort": 2,
+        "sort": 3,
         "open_at": "2021-04-22 02:00:00",
         "close_at": "2021-04-30 23:59:59"
     },
@@ -1282,7 +1282,7 @@
         "action_param": "gacha_scene",
         "option_param": "",
         "period_text": "",
-        "sort": 2,
+        "sort": 1,
         "open_at": "2021-01-01 00:00:00",
         "close_at": "2021-04-29 23:59:59"
     },
@@ -1304,7 +1304,7 @@
         "action_param": "",
         "option_param": "",
         "period_text": "",
-        "sort": 4,
+        "sort": 1,
         "open_at": "2021-01-01 00:00:00",
         "close_at": "2021-04-27 01:59:59"
     }
