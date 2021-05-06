@@ -1761,7 +1761,7 @@
         "recommended_flg": false,
         "recommended_message": "",
         "open_at": "2021-04-26 02:00:00",
-        "close_at": "2020-05-19 02:00:00"
+        "close_at": "2021-05-11 23:59:59"
     },
     {
         "id": 100017,
@@ -1782,7 +1782,7 @@
         "recommended_flg": false,
         "recommended_message": "",
         "open_at": "2021-04-26 02:00:00",
-        "close_at": "2020-05-19 02:00:00"
+        "close_at": "2021-05-11 23:59:59"
     },
     {
         "id": 100018,
@@ -1803,7 +1803,7 @@
         "recommended_flg": false,
         "recommended_message": "",
         "open_at": "2021-04-26 02:00:00",
-        "close_at": "2020-05-19 02:00:00"
+        "close_at": "2021-05-11 23:59:59"
     },
     {
         "id": 100019,
@@ -2113,12 +2113,12 @@
         "description": "Fiercest Fes Pack (S)",
         "cheaping": "",
         "pack_flg": true,
-        "sort": 1,
-        "icon_resource_name": "maou_fes_val_s",
-        "recommended_flg": true,
-        "recommended_message": "Super Value!",
-        "open_at": "2020-02-27 13:05:00",
-        "close_at": "2020-03-03 23:59:59"
+        "sort": 4,
+        "icon_resource_name": "",
+        "recommended_flg": false,
+        "recommended_message": "",
+        "open_at": "2021-05-05 02:00:00",
+        "close_at": "2021-05-12 01:59:59"
     },
     {
         "id": 100034,
@@ -2134,12 +2134,12 @@
         "description": "Fiercest Fes Pack (M)",
         "cheaping": "",
         "pack_flg": true,
-        "sort": 2,
-        "icon_resource_name": "maou_fes_val_m",
-        "recommended_flg": true,
-        "recommended_message": "Super Value!",
-        "open_at": "2020-02-27 13:05:00",
-        "close_at": "2020-03-03 23:59:59"
+        "sort": 5,
+        "icon_resource_name": "",
+        "recommended_flg": false,
+        "recommended_message": "",
+        "open_at": "2021-05-05 02:00:00",
+        "close_at": "2021-05-12 01:59:59"
     },
     {
         "id": 100035,
@@ -2155,12 +2155,12 @@
         "description": "Fiercest Fes Pack (L)",
         "cheaping": "",
         "pack_flg": true,
-        "sort": 3,
-        "icon_resource_name": "maou_fes_val_l",
-        "recommended_flg": true,
-        "recommended_message": "Super Value!",
-        "open_at": "2020-02-27 13:05:00",
-        "close_at": "2020-03-03 23:59:59"
+        "sort": 6,
+        "icon_resource_name": "",
+        "recommended_flg": false,
+        "recommended_message": "",
+        "open_at": "2021-05-05 02:00:00",
+        "close_at": "2021-05-12 01:59:59"
     },
     {
         "id": 100036,
@@ -14146,7 +14146,7 @@
         "description": "Quartz and Reinc. Gems",
         "cheaping": "",
         "pack_flg": true,
-        "sort": 4,
+        "sort": 7,
         "icon_resource_name": "start_pack_m",
         "recommended_flg": true,
         "recommended_message": "Super Value!",
@@ -14167,7 +14167,7 @@
         "description": "Quartz and Reinc. Gems",
         "cheaping": "",
         "pack_flg": true,
-        "sort": 5,
+        "sort": 8,
         "icon_resource_name": "start_pack_m",
         "recommended_flg": true,
         "recommended_message": "Super Value!",
@@ -14188,7 +14188,7 @@
         "description": "Quartz and Reinc. Gems",
         "cheaping": "",
         "pack_flg": true,
-        "sort": 6,
+        "sort": 9,
         "icon_resource_name": "start_pack_m",
         "recommended_flg": true,
         "recommended_message": "Super Value!",
@@ -14209,7 +14209,7 @@
         "description": "Special Pack for Rookie",
         "cheaping": "",
         "pack_flg": true,
-        "sort": 7,
+        "sort": 10,
         "icon_resource_name": "start_pack_m",
         "recommended_flg": true,
         "recommended_message": "Super Value!",
@@ -14230,7 +14230,7 @@
         "description": "Special Pack for Rookie",
         "cheaping": "",
         "pack_flg": true,
-        "sort": 8,
+        "sort": 11,
         "icon_resource_name": "start_pack_m",
         "recommended_flg": true,
         "recommended_message": "Super Value!",
@@ -14251,7 +14251,7 @@
         "description": "Special Pack for Rookie",
         "cheaping": "",
         "pack_flg": true,
-        "sort": 9,
+        "sort": 12,
         "icon_resource_name": "start_pack_m",
         "recommended_flg": true,
         "recommended_message": "Super Value!",
