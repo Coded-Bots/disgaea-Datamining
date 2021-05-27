@@ -125,7 +125,7 @@
         "series": 6,
         "m_main_story_category_id": 0,
         "name": "D5 Digest",
-        "open_at": "2021-06-27 02:00:00",
+        "open_at": "2021-06-10 02:00:00",
         "close_at": "",
         "no": 2
     },
@@ -205,8 +205,8 @@
         "series": 0,
         "m_main_story_category_id": 0,
         "name": "Modified Prinny Conquest Battle",
-        "open_at": "",
-        "close_at": "",
+        "open_at": "2021-05-27 02:00:00",
+        "close_at": "2021-06-10 01:59:59",
         "no": 1
     },
     {
