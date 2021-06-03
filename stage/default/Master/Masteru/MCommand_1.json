@@ -9979,8 +9979,8 @@
     {
         "id": 3000381,
         "resource_id": 0,
-        "name": "A Tyrant's Stroke",
-        "name_battle": "A Tyrant's Stroke",
+        "name": "Tyrant Sweep",
+        "name_battle": "Tyrant Sweep",
         "command_category": 3,
         "attr": 0,
         "max_lv": 30,
@@ -10012,7 +10012,7 @@
             2
         ],
         "description_effect": "-",
-        "description": "A merciless stroke of the Tyrant."
+        "description": "The Tyrant's ruthless strike."
     },
     {
         "id": 3000382,

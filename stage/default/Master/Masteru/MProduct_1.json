@@ -34,7 +34,7 @@
         "description": "An Xmas-only Special Deal",
         "cheaping": "",
         "pack_flg": true,
-        "sort": 8,
+        "sort": 13,
         "icon_resource_name": "",
         "recommended_flg": false,
         "recommended_message": "",
@@ -202,12 +202,12 @@
         "description": "Defender of Earth Great Value Set",
         "cheaping": "",
         "pack_flg": true,
-        "sort": 3,
+        "sort": 2,
         "icon_resource_name": "",
         "recommended_flg": false,
         "recommended_message": "",
-        "open_at": "2020-01-24 12:00:00",
-        "close_at": "2020-02-07 12:00:00"
+        "open_at": "2021-05-18 00:00:00",
+        "close_at": "2021-06-01 23:59:59"
     },
     {
         "id": 11,
@@ -223,12 +223,12 @@
         "description": "Defender of Earth Great Value Set (S)",
         "cheaping": "",
         "pack_flg": true,
-        "sort": 4,
+        "sort": 3,
         "icon_resource_name": "",
         "recommended_flg": false,
         "recommended_message": "",
-        "open_at": "2020-01-24 12:00:00",
-        "close_at": "2020-02-07 12:00:00"
+        "open_at": "2021-05-18 00:00:00",
+        "close_at": "2021-06-01 23:59:59"
     },
     {
         "id": 12,
@@ -244,12 +244,12 @@
         "description": "Defender of Earth Great Value Set (M)",
         "cheaping": "",
         "pack_flg": true,
-        "sort": 5,
+        "sort": 4,
         "icon_resource_name": "",
         "recommended_flg": false,
         "recommended_message": "",
-        "open_at": "2020-01-24 12:00:00",
-        "close_at": "2020-02-07 12:00:00"
+        "open_at": "2021-05-18 00:00:00",
+        "close_at": "2021-06-01 23:59:59"
     },
     {
         "id": 13,
@@ -265,12 +265,12 @@
         "description": "Defender of Earth Great Value Set (L)",
         "cheaping": "",
         "pack_flg": true,
-        "sort": 6,
+        "sort": 5,
         "icon_resource_name": "",
         "recommended_flg": false,
         "recommended_message": "",
-        "open_at": "2020-01-24 12:00:00",
-        "close_at": "2020-02-07 12:00:00"
+        "open_at": "2021-05-18 00:00:00",
+        "close_at": "2021-06-01 23:59:59"
     },
     {
         "id": 14,
@@ -311,8 +311,8 @@
         "icon_resource_name": "",
         "recommended_flg": false,
         "recommended_message": "",
-        "open_at": "2020-02-20 12:00:00",
-        "close_at": "2020-03-05 12:00:00"
+        "open_at": "2021-05-25 00:00:00",
+        "close_at": "2021-06-08 23:59:59"
     },
     {
         "id": 16,
@@ -332,8 +332,8 @@
         "icon_resource_name": "",
         "recommended_flg": false,
         "recommended_message": "",
-        "open_at": "2020-02-20 12:00:00",
-        "close_at": "2020-03-05 12:00:00"
+        "open_at": "2021-05-25 00:00:00",
+        "close_at": "2021-06-08 23:59:59"
     },
     {
         "id": 17,
@@ -353,8 +353,8 @@
         "icon_resource_name": "",
         "recommended_flg": false,
         "recommended_message": "",
-        "open_at": "2020-02-20 12:00:00",
-        "close_at": "2020-03-05 12:00:00"
+        "open_at": "2021-05-25 00:00:00",
+        "close_at": "2021-06-08 23:59:59"
     },
     {
         "id": 18,
@@ -374,8 +374,8 @@
         "icon_resource_name": "",
         "recommended_flg": false,
         "recommended_message": "",
-        "open_at": "2020-02-20 12:00:00",
-        "close_at": "2020-03-05 12:00:00"
+        "open_at": "2021-05-25 00:00:00",
+        "close_at": "2021-06-08 23:59:59"
     },
     {
         "id": 19,
@@ -1378,7 +1378,7 @@
         "description": "Subdue Ticket",
         "cheaping": "",
         "pack_flg": false,
-        "sort": 2,
+        "sort": 10,
         "icon_resource_name": "",
         "recommended_flg": false,
         "recommended_message": "",
@@ -1399,7 +1399,7 @@
         "description": "Subdue Ticket x3",
         "cheaping": "",
         "pack_flg": false,
-        "sort": 3,
+        "sort": 11,
         "icon_resource_name": "",
         "recommended_flg": false,
         "recommended_message": "",
@@ -1420,7 +1420,7 @@
         "description": "Subdue Ticket x10",
         "cheaping": "",
         "pack_flg": false,
-        "sort": 4,
+        "sort": 12,
         "icon_resource_name": "",
         "recommended_flg": false,
         "recommended_message": "",
@@ -1697,7 +1697,7 @@
         "icon_resource_name": "",
         "recommended_flg": false,
         "recommended_message": "",
-        "open_at": "2021-04-27 02:00:00",
+        "open_at": "2021-04-24 02:00:00",
         "close_at": "2021-05-11 23:59:59"
     },
     {
@@ -1718,7 +1718,7 @@
         "icon_resource_name": "",
         "recommended_flg": false,
         "recommended_message": "",
-        "open_at": "2021-04-27 02:00:00",
+        "open_at": "2021-04-24 02:00:00",
         "close_at": "2021-05-11 23:59:59"
     },
     {
@@ -1739,7 +1739,7 @@
         "icon_resource_name": "",
         "recommended_flg": false,
         "recommended_message": "",
-        "open_at": "2021-04-27 02:00:00",
+        "open_at": "2021-04-24 02:00:00",
         "close_at": "2021-05-11 23:59:59"
     },
     {
@@ -1757,11 +1757,11 @@
         "cheaping": "",
         "pack_flg": true,
         "sort": 16,
-        "icon_resource_name": "newyear_pack_s",
-        "recommended_flg": true,
+        "icon_resource_name": "",
+        "recommended_flg": false,
         "recommended_message": "",
-        "open_at": "2020-05-12 02:00:00",
-        "close_at": "2020-05-19 02:00:00"
+        "open_at": "2021-04-26 02:00:00",
+        "close_at": "2021-05-11 23:59:59"
     },
     {
         "id": 100017,
@@ -1778,11 +1778,11 @@
         "cheaping": "",
         "pack_flg": true,
         "sort": 17,
-        "icon_resource_name": "newyear_pack_m",
-        "recommended_flg": true,
+        "icon_resource_name": "",
+        "recommended_flg": false,
         "recommended_message": "",
-        "open_at": "2020-05-12 02:00:00",
-        "close_at": "2020-05-19 02:00:00"
+        "open_at": "2021-04-26 02:00:00",
+        "close_at": "2021-05-11 23:59:59"
     },
     {
         "id": 100018,
@@ -1799,11 +1799,11 @@
         "cheaping": "",
         "pack_flg": true,
         "sort": 18,
-        "icon_resource_name": "newyear_pack_l",
-        "recommended_flg": true,
+        "icon_resource_name": "",
+        "recommended_flg": false,
         "recommended_message": "",
-        "open_at": "2020-05-12 02:00:00",
-        "close_at": "2020-05-19 02:00:00"
+        "open_at": "2021-04-26 02:00:00",
+        "close_at": "2021-05-11 23:59:59"
     },
     {
         "id": 100019,
@@ -1813,18 +1813,18 @@
         "limit_type": 3,
         "limit_num": 3,
         "price_type": 3,
-        "price": 2580,
+        "price": 20,
         "price_m_item_id": 0,
         "comeback": false,
         "description": "Special Offer for Defender (S)",
         "cheaping": "",
         "pack_flg": true,
         "sort": 1,
-        "icon_resource_name": "tikyuyusya_pack_s",
-        "recommended_flg": true,
-        "recommended_message": "Super Value!",
-        "open_at": "2020-01-24 12:00:00",
-        "close_at": "2020-02-07 12:00:00"
+        "icon_resource_name": "",
+        "recommended_flg": false,
+        "recommended_message": "",
+        "open_at": "2021-05-18 00:00:00",
+        "close_at": "2021-06-01 23:59:59"
     },
     {
         "id": 100020,
@@ -1834,18 +1834,18 @@
         "limit_type": 3,
         "limit_num": 2,
         "price_type": 3,
-        "price": 6100,
+        "price": 48,
         "price_m_item_id": 0,
         "comeback": false,
         "description": "Special Offer for Defender (M)",
         "cheaping": "",
         "pack_flg": true,
         "sort": 2,
-        "icon_resource_name": "tikyuyusya_pack_m",
-        "recommended_flg": true,
-        "recommended_message": "Super Value!",
-        "open_at": "2020-01-24 12:00:00",
-        "close_at": "2020-02-07 12:00:00"
+        "icon_resource_name": "",
+        "recommended_flg": false,
+        "recommended_message": "",
+        "open_at": "2021-05-18 00:00:00",
+        "close_at": "2021-06-01 23:59:59"
     },
     {
         "id": 100021,
@@ -1855,18 +1855,18 @@
         "limit_type": 3,
         "limit_num": 1,
         "price_type": 3,
-        "price": 12000,
+        "price": 94,
         "price_m_item_id": 0,
         "comeback": false,
         "description": "Special Offer for Defender (L)",
         "cheaping": "",
         "pack_flg": true,
         "sort": 3,
-        "icon_resource_name": "tikyuyusya_pack_l",
-        "recommended_flg": true,
-        "recommended_message": "Super Value!",
-        "open_at": "2020-01-24 12:00:00",
-        "close_at": "2020-02-07 12:00:00"
+        "icon_resource_name": "",
+        "recommended_flg": false,
+        "recommended_message": "",
+        "open_at": "2021-05-18 00:00:00",
+        "close_at": "2021-06-01 23:59:59"
     },
     {
         "id": 100022,
@@ -1886,8 +1886,8 @@
         "icon_resource_name": "seitan_pack_ss",
         "recommended_flg": true,
         "recommended_message": "Super Value!",
-        "open_at": "2020-01-30 12:00:00",
-        "close_at": "2020-02-12 12:00:00"
+        "open_at": "2021-05-31 00:00:00",
+        "close_at": "2021-05-31 23:59:59"
     },
     {
         "id": 100023,
@@ -1907,8 +1907,8 @@
         "icon_resource_name": "seitan_pack_s",
         "recommended_flg": true,
         "recommended_message": "Super Value!",
-        "open_at": "2020-01-30 12:00:00",
-        "close_at": "2020-02-12 12:00:00"
+        "open_at": "2021-05-31 00:00:00",
+        "close_at": "2021-05-31 23:59:59"
     },
     {
         "id": 100024,
@@ -1928,8 +1928,8 @@
         "icon_resource_name": "seitan_pack_m",
         "recommended_flg": true,
         "recommended_message": "Super Value!",
-        "open_at": "2020-01-30 12:00:00",
-        "close_at": "2020-02-12 12:00:00"
+        "open_at": "2021-05-31 00:00:00",
+        "close_at": "2021-05-31 23:59:59"
     },
     {
         "id": 100025,
@@ -1949,8 +1949,8 @@
         "icon_resource_name": "seitan_pack_l",
         "recommended_flg": true,
         "recommended_message": "Super Value!",
-        "open_at": "2020-01-30 12:00:00",
-        "close_at": "2020-02-12 12:00:00"
+        "open_at": "2021-05-31 00:00:00",
+        "close_at": "2021-05-31 23:59:59"
     },
     {
         "id": 100026,
@@ -1970,8 +1970,8 @@
         "icon_resource_name": "valentine_pack_s",
         "recommended_flg": true,
         "recommended_message": "Super Value!",
-        "open_at": "2020-02-13 13:00:00",
-        "close_at": "2020-02-20 12:00:00"
+        "open_at": "2021-05-31 00:00:00",
+        "close_at": "2021-05-31 23:59:59"
     },
     {
         "id": 100027,
@@ -1991,8 +1991,8 @@
         "icon_resource_name": "valentine_pack_m",
         "recommended_flg": true,
         "recommended_message": "Super Value!",
-        "open_at": "2020-02-13 13:00:00",
-        "close_at": "2020-02-20 12:00:00"
+        "open_at": "2021-05-31 00:00:00",
+        "close_at": "2021-05-31 23:59:59"
     },
     {
         "id": 100028,
@@ -2012,8 +2012,8 @@
         "icon_resource_name": "valentine_pack_l",
         "recommended_flg": true,
         "recommended_message": "Super Value!",
-        "open_at": "2020-02-13 13:00:00",
-        "close_at": "2020-02-20 12:00:00"
+        "open_at": "2021-05-31 00:00:00",
+        "close_at": "2021-05-31 23:59:59"
     },
     {
         "id": 100029,
@@ -2023,18 +2023,18 @@
         "limit_type": 3,
         "limit_num": 3,
         "price_type": 3,
-        "price": 980,
+        "price": 6,
         "price_m_item_id": 0,
         "comeback": false,
-        "description": "Special Offer Pack for Beauty (SS)",
+        "description": "Special Offer for Beauty (SS)",
         "cheaping": "",
         "pack_flg": true,
         "sort": 4,
-        "icon_resource_name": "beauty_pack_ss",
-        "recommended_flg": true,
-        "recommended_message": "Super Value!",
-        "open_at": "2020-02-20 12:00:00",
-        "close_at": "2020-03-05 12:00:00"
+        "icon_resource_name": "",
+        "recommended_flg": false,
+        "recommended_message": "",
+        "open_at": "2021-05-25 00:00:00",
+        "close_at": "2021-06-08 23:59:59"
     },
     {
         "id": 100030,
@@ -2044,18 +2044,18 @@
         "limit_type": 3,
         "limit_num": 3,
         "price_type": 3,
-        "price": 2580,
+        "price": 20,
         "price_m_item_id": 0,
         "comeback": false,
-        "description": "Special Offer Pack for Beauty (S)",
+        "description": "Special Offer for Beauty (S)",
         "cheaping": "",
         "pack_flg": true,
         "sort": 5,
-        "icon_resource_name": "beauty_pack_s",
-        "recommended_flg": true,
-        "recommended_message": "Super Value!",
-        "open_at": "2020-02-20 12:00:00",
-        "close_at": "2020-03-05 12:00:00"
+        "icon_resource_name": "",
+        "recommended_flg": false,
+        "recommended_message": "",
+        "open_at": "2021-05-25 00:00:00",
+        "close_at": "2021-06-08 23:59:59"
     },
     {
         "id": 100031,
@@ -2065,18 +2065,18 @@
         "limit_type": 3,
         "limit_num": 2,
         "price_type": 3,
-        "price": 6100,
+        "price": 48,
         "price_m_item_id": 0,
         "comeback": false,
-        "description": "Special Offer Pack for Beauty (M)",
+        "description": "Special Offer for Beauty (M)",
         "cheaping": "",
         "pack_flg": true,
         "sort": 6,
-        "icon_resource_name": "beauty_pack_m",
-        "recommended_flg": true,
-        "recommended_message": "Super Value!",
-        "open_at": "2020-02-20 12:00:00",
-        "close_at": "2020-03-05 12:00:00"
+        "icon_resource_name": "",
+        "recommended_flg": false,
+        "recommended_message": "",
+        "open_at": "2021-05-25 00:00:00",
+        "close_at": "2021-06-08 23:59:59"
     },
     {
         "id": 100032,
@@ -2086,18 +2086,18 @@
         "limit_type": 3,
         "limit_num": 1,
         "price_type": 3,
-        "price": 12000,
+        "price": 94,
         "price_m_item_id": 0,
         "comeback": false,
-        "description": "Special Offer Pack for Beauty (L)",
+        "description": "Special Offer for Beauty (L)",
         "cheaping": "",
         "pack_flg": true,
         "sort": 7,
-        "icon_resource_name": "beauty_pack_l",
-        "recommended_flg": true,
-        "recommended_message": "Super Value!",
-        "open_at": "2020-02-20 12:00:00",
-        "close_at": "2020-03-05 12:00:00"
+        "icon_resource_name": "",
+        "recommended_flg": false,
+        "recommended_message": "",
+        "open_at": "2021-05-25 00:00:00",
+        "close_at": "2021-06-08 23:59:59"
     },
     {
         "id": 100033,
@@ -2107,18 +2107,18 @@
         "limit_type": 3,
         "limit_num": 3,
         "price_type": 3,
-        "price": 3800,
+        "price": 30,
         "price_m_item_id": 0,
         "comeback": false,
         "description": "Fiercest Fes Pack (S)",
         "cheaping": "",
         "pack_flg": true,
-        "sort": 1,
-        "icon_resource_name": "maou_fes_val_s",
-        "recommended_flg": true,
-        "recommended_message": "Super Value!",
-        "open_at": "2020-02-27 13:05:00",
-        "close_at": "2020-03-03 23:59:59"
+        "sort": 4,
+        "icon_resource_name": "",
+        "recommended_flg": false,
+        "recommended_message": "",
+        "open_at": "2021-05-05 02:00:00",
+        "close_at": "2021-05-12 01:59:59"
     },
     {
         "id": 100034,
@@ -2128,18 +2128,18 @@
         "limit_type": 3,
         "limit_num": 2,
         "price_type": 3,
-        "price": 7500,
+        "price": 59,
         "price_m_item_id": 0,
         "comeback": false,
         "description": "Fiercest Fes Pack (M)",
         "cheaping": "",
         "pack_flg": true,
-        "sort": 2,
-        "icon_resource_name": "maou_fes_val_m",
-        "recommended_flg": true,
-        "recommended_message": "Super Value!",
-        "open_at": "2020-02-27 13:05:00",
-        "close_at": "2020-03-03 23:59:59"
+        "sort": 5,
+        "icon_resource_name": "",
+        "recommended_flg": false,
+        "recommended_message": "",
+        "open_at": "2021-05-05 02:00:00",
+        "close_at": "2021-05-12 01:59:59"
     },
     {
         "id": 100035,
@@ -2149,18 +2149,18 @@
         "limit_type": 3,
         "limit_num": 1,
         "price_type": 3,
-        "price": 11500,
+        "price": 89,
         "price_m_item_id": 0,
         "comeback": false,
         "description": "Fiercest Fes Pack (L)",
         "cheaping": "",
         "pack_flg": true,
-        "sort": 3,
-        "icon_resource_name": "maou_fes_val_l",
-        "recommended_flg": true,
-        "recommended_message": "Super Value!",
-        "open_at": "2020-02-27 13:05:00",
-        "close_at": "2020-03-03 23:59:59"
+        "sort": 6,
+        "icon_resource_name": "",
+        "recommended_flg": false,
+        "recommended_message": "",
+        "open_at": "2021-05-05 02:00:00",
+        "close_at": "2021-05-12 01:59:59"
     },
     {
         "id": 100036,
@@ -2168,20 +2168,20 @@
         "icon_no": 100036,
         "m_item_shop_id": 2,
         "limit_type": 3,
-        "limit_num": 3,
+        "limit_num": 5,
         "price_type": 3,
-        "price": 610,
+        "price": 3,
         "price_m_item_id": 0,
         "comeback": false,
         "description": "Gate Key x10 Pack!",
         "cheaping": "",
         "pack_flg": true,
         "sort": 1,
-        "icon_resource_name": "more_key_pack",
-        "recommended_flg": true,
-        "recommended_message": "Super Value!",
-        "open_at": "2020-03-06 00:00:00",
-        "close_at": "2020-03-10 12:59:59"
+        "icon_resource_name": "",
+        "recommended_flg": false,
+        "recommended_message": "",
+        "open_at": "2021-05-14 00:00:00",
+        "close_at": "2021-05-24 23:59:59"
     },
     {
         "id": 100037,
@@ -2201,8 +2201,8 @@
         "icon_resource_name": "lesson_pack_ss",
         "recommended_flg": true,
         "recommended_message": "Super Value!",
-        "open_at": "2020-03-10 13:05:00",
-        "close_at": "2020-03-26 11:59:59"
+        "open_at": "2021-05-31 00:00:00",
+        "close_at": "2021-05-31 23:59:59"
     },
     {
         "id": 100038,
@@ -2222,8 +2222,8 @@
         "icon_resource_name": "lesson_pack_s",
         "recommended_flg": true,
         "recommended_message": "Super Value!",
-        "open_at": "2020-03-10 13:05:00",
-        "close_at": "2020-03-26 11:59:59"
+        "open_at": "2021-05-31 00:00:00",
+        "close_at": "2021-05-31 23:59:59"
     },
     {
         "id": 100039,
@@ -2243,8 +2243,8 @@
         "icon_resource_name": "lesson_pack_m",
         "recommended_flg": true,
         "recommended_message": "Super Value!",
-        "open_at": "2020-03-10 13:05:00",
-        "close_at": "2020-03-26 11:59:59"
+        "open_at": "2021-05-31 00:00:00",
+        "close_at": "2021-05-31 23:59:59"
     },
     {
         "id": 100040,
@@ -2264,8 +2264,8 @@
         "icon_resource_name": "lesson_pack_l",
         "recommended_flg": true,
         "recommended_message": "Super Value!",
-        "open_at": "2020-03-10 13:05:00",
-        "close_at": "2020-03-26 11:59:59"
+        "open_at": "2021-05-31 00:00:00",
+        "close_at": "2021-05-31 23:59:59"
     },
     {
         "id": 100041,
@@ -2285,8 +2285,8 @@
         "icon_resource_name": "whiteday_pack_s",
         "recommended_flg": true,
         "recommended_message": "Super Value!",
-        "open_at": "2020-03-10 13:05:00",
-        "close_at": "2020-03-21 23:59:59"
+        "open_at": "2021-05-31 00:00:00",
+        "close_at": "2021-05-31 23:59:59"
     },
     {
         "id": 100042,
@@ -2306,8 +2306,8 @@
         "icon_resource_name": "whiteday_pack_m",
         "recommended_flg": true,
         "recommended_message": "Super Value!",
-        "open_at": "2020-03-10 13:05:00",
-        "close_at": "2020-03-21 23:59:59"
+        "open_at": "2021-05-31 00:00:00",
+        "close_at": "2021-05-31 23:59:59"
     },
     {
         "id": 100043,
@@ -2327,8 +2327,8 @@
         "icon_resource_name": "whiteday_pack_l",
         "recommended_flg": true,
         "recommended_message": "Super Value!",
-        "open_at": "2020-03-10 13:05:00",
-        "close_at": "2020-03-21 23:59:59"
+        "open_at": "2021-05-31 00:00:00",
+        "close_at": "2021-05-31 23:59:59"
     },
     {
         "id": 100044,
@@ -2348,8 +2348,8 @@
         "icon_resource_name": "remorse_pack_ss",
         "recommended_flg": true,
         "recommended_message": "Super Value!",
-        "open_at": "2020-03-19 13:05:00",
-        "close_at": "2020-04-05 23:59:59"
+        "open_at": "2021-05-31 00:00:00",
+        "close_at": "2021-05-31 23:59:59"
     },
     {
         "id": 100045,
@@ -2369,8 +2369,8 @@
         "icon_resource_name": "remorse_pack_s",
         "recommended_flg": true,
         "recommended_message": "Super Value!",
-        "open_at": "2020-03-19 13:05:00",
-        "close_at": "2020-04-05 23:59:59"
+        "open_at": "2021-05-31 00:00:00",
+        "close_at": "2021-05-31 23:59:59"
     },
     {
         "id": 100046,
@@ -2390,8 +2390,8 @@
         "icon_resource_name": "remorse_pack_m",
         "recommended_flg": true,
         "recommended_message": "Super Value!",
-        "open_at": "2020-03-19 13:05:00",
-        "close_at": "2020-04-05 23:59:59"
+        "open_at": "2021-05-31 00:00:00",
+        "close_at": "2021-05-31 23:59:59"
     },
     {
         "id": 100047,
@@ -2411,8 +2411,8 @@
         "icon_resource_name": "remorse_pack_l",
         "recommended_flg": true,
         "recommended_message": "Super Value!",
-        "open_at": "2020-03-19 13:05:00",
-        "close_at": "2020-04-05 23:59:59"
+        "open_at": "2021-05-31 00:00:00",
+        "close_at": "2021-05-31 23:59:59"
     },
     {
         "id": 100048,
@@ -2422,18 +2422,18 @@
         "limit_type": 3,
         "limit_num": 3,
         "price_type": 3,
-        "price": 1960,
+        "price": 14,
         "price_m_item_id": 0,
         "comeback": false,
-        "description": "Platinum Summon Pack Part I (S)",
+        "description": "Platinum Pack(S)",
         "cheaping": "",
         "pack_flg": true,
         "sort": 8,
-        "icon_resource_name": "platinum_pack_s",
-        "recommended_flg": true,
-        "recommended_message": "Super Value!",
-        "open_at": "2020-03-19 13:05:00",
-        "close_at": "2020-03-27 23:59:59"
+        "icon_resource_name": "",
+        "recommended_flg": false,
+        "recommended_message": "",
+        "open_at": "2021-05-13 00:00:00",
+        "close_at": "2021-06-01 23:59:59"
     },
     {
         "id": 100049,
@@ -2443,18 +2443,18 @@
         "limit_type": 3,
         "limit_num": 3,
         "price_type": 3,
-        "price": 5980,
+        "price": 48,
         "price_m_item_id": 0,
         "comeback": false,
-        "description": "Platinum Summon Pack Part I (M)",
+        "description": "Platinum Pack(M)",
         "cheaping": "",
         "pack_flg": true,
         "sort": 9,
-        "icon_resource_name": "platinum_pack_m",
-        "recommended_flg": true,
-        "recommended_message": "Super Value!",
-        "open_at": "2020-03-19 13:05:00",
-        "close_at": "2020-03-27 23:59:59"
+        "icon_resource_name": "",
+        "recommended_flg": false,
+        "recommended_message": "",
+        "open_at": "2021-05-13 00:00:00",
+        "close_at": "2021-06-01 23:59:59"
     },
     {
         "id": 100050,
@@ -2464,18 +2464,18 @@
         "limit_type": 3,
         "limit_num": 3,
         "price_type": 3,
-        "price": 8000,
+        "price": 64,
         "price_m_item_id": 0,
         "comeback": false,
-        "description": "Platinum Summon Pack Part I (L)",
+        "description": "Platinum Pack(L)",
         "cheaping": "",
         "pack_flg": true,
         "sort": 10,
-        "icon_resource_name": "platinum_pack_l",
-        "recommended_flg": true,
-        "recommended_message": "Super Value!",
-        "open_at": "2020-03-19 13:05:00",
-        "close_at": "2020-03-27 23:59:59"
+        "icon_resource_name": "",
+        "recommended_flg": false,
+        "recommended_message": "",
+        "open_at": "2021-05-13 00:00:00",
+        "close_at": "2021-06-01 23:59:59"
     },
     {
         "id": 100051,
@@ -2558,8 +2558,8 @@
         "icon_resource_name": "magical_pack_ss",
         "recommended_flg": true,
         "recommended_message": "Super Value!",
-        "open_at": "2020-03-31 12:00:00",
-        "close_at": "2020-04-14 11:59:59"
+        "open_at": "2021-05-31 00:00:00",
+        "close_at": "2021-05-31 23:59:59"
     },
     {
         "id": 100055,
@@ -2579,8 +2579,8 @@
         "icon_resource_name": "magical_pack_s",
         "recommended_flg": true,
         "recommended_message": "Super Value!",
-        "open_at": "2020-03-31 12:00:00",
-        "close_at": "2020-04-14 11:59:59"
+        "open_at": "2021-05-31 00:00:00",
+        "close_at": "2021-05-31 23:59:59"
     },
     {
         "id": 100056,
@@ -2600,8 +2600,8 @@
         "icon_resource_name": "magical_pack_m",
         "recommended_flg": true,
         "recommended_message": "Super Value!",
-        "open_at": "2020-03-31 12:00:00",
-        "close_at": "2020-04-14 11:59:59"
+        "open_at": "2021-05-31 00:00:00",
+        "close_at": "2021-05-31 23:59:59"
     },
     {
         "id": 100057,
@@ -2621,8 +2621,8 @@
         "icon_resource_name": "magical_pack_l",
         "recommended_flg": true,
         "recommended_message": "Super Value!",
-        "open_at": "2020-03-31 12:00:00",
-        "close_at": "2020-04-14 11:59:59"
+        "open_at": "2021-05-31 00:00:00",
+        "close_at": "2021-05-31 23:59:59"
     },
     {
         "id": 100058,
@@ -2642,8 +2642,8 @@
         "icon_resource_name": "easter_pack_s",
         "recommended_flg": true,
         "recommended_message": "Super Value!",
-        "open_at": "2020-04-09 13:05:00",
-        "close_at": "2020-04-16 12:59:59"
+        "open_at": "2021-05-31 00:00:00",
+        "close_at": "2021-05-31 23:59:59"
     },
     {
         "id": 100059,
@@ -2663,8 +2663,8 @@
         "icon_resource_name": "easter_pack_m",
         "recommended_flg": true,
         "recommended_message": "Super Value!",
-        "open_at": "2020-04-09 13:05:00",
-        "close_at": "2020-04-16 12:59:59"
+        "open_at": "2021-05-31 00:00:00",
+        "close_at": "2021-05-31 23:59:59"
     },
     {
         "id": 100060,
@@ -2684,8 +2684,8 @@
         "icon_resource_name": "easter_pack_l",
         "recommended_flg": true,
         "recommended_message": "Super Value!",
-        "open_at": "2020-04-09 13:05:00",
-        "close_at": "2020-04-16 12:59:59"
+        "open_at": "2021-05-31 00:00:00",
+        "close_at": "2021-05-31 23:59:59"
     },
     {
         "id": 100061,
@@ -2768,8 +2768,8 @@
         "icon_resource_name": "catcafe_pack_ss",
         "recommended_flg": true,
         "recommended_message": "Super Value!",
-        "open_at": "2020-04-23 12:00:00",
-        "close_at": "2020-04-29 23:59:59"
+        "open_at": "2021-05-31 00:00:00",
+        "close_at": "2021-05-31 23:59:59"
     },
     {
         "id": 100065,
@@ -2789,8 +2789,8 @@
         "icon_resource_name": "catcafe_pack_s",
         "recommended_flg": true,
         "recommended_message": "Super Value!",
-        "open_at": "2020-04-23 12:00:00",
-        "close_at": "2020-04-29 23:59:59"
+        "open_at": "2021-05-31 00:00:00",
+        "close_at": "2021-05-31 23:59:59"
     },
     {
         "id": 100066,
@@ -2810,8 +2810,8 @@
         "icon_resource_name": "catcafe_pack_m",
         "recommended_flg": true,
         "recommended_message": "Super Value!",
-        "open_at": "2020-04-23 12:00:00",
-        "close_at": "2020-04-29 23:59:59"
+        "open_at": "2021-05-31 00:00:00",
+        "close_at": "2021-05-31 23:59:59"
     },
     {
         "id": 100067,
@@ -2831,8 +2831,8 @@
         "icon_resource_name": "catcafe_pack_l",
         "recommended_flg": true,
         "recommended_message": "Super Value!",
-        "open_at": "2020-04-23 12:00:00",
-        "close_at": "2020-04-29 23:59:59"
+        "open_at": "2021-05-31 00:00:00",
+        "close_at": "2021-05-31 23:59:59"
     },
     {
         "id": 100068,
@@ -2852,8 +2852,8 @@
         "icon_resource_name": "comeback_pack",
         "recommended_flg": true,
         "recommended_message": "Comeback!",
-        "open_at": "2020-04-28 12:00:00",
-        "close_at": "2020-04-28 23:00:00"
+        "open_at": "2021-05-31 00:00:00",
+        "close_at": "2021-05-31 23:59:59"
     },
     {
         "id": 100069,
@@ -2870,9 +2870,9 @@
         "cheaping": "",
         "pack_flg": true,
         "sort": 2,
-        "icon_resource_name": "maou_fes_ros_s",
-        "recommended_flg": true,
-        "recommended_message": "Super Value!",
+        "icon_resource_name": "",
+        "recommended_flg": false,
+        "recommended_message": "",
         "open_at": "2020-04-28 13:05:00",
         "close_at": "2020-05-03 23:59:59"
     },
@@ -2891,9 +2891,9 @@
         "cheaping": "",
         "pack_flg": true,
         "sort": 3,
-        "icon_resource_name": "maou_fes_ros_m",
-        "recommended_flg": true,
-        "recommended_message": "Super Value!",
+        "icon_resource_name": "",
+        "recommended_flg": false,
+        "recommended_message": "",
         "open_at": "2020-04-28 13:05:00",
         "close_at": "2020-05-03 23:59:59"
     },
@@ -2912,9 +2912,9 @@
         "cheaping": "",
         "pack_flg": true,
         "sort": 4,
-        "icon_resource_name": "maou_fes_ros_l",
-        "recommended_flg": true,
-        "recommended_message": "Super Value!",
+        "icon_resource_name": "",
+        "recommended_flg": false,
+        "recommended_message": "",
         "open_at": "2020-04-28 13:05:00",
         "close_at": "2020-05-03 23:59:59"
     },
@@ -2936,8 +2936,8 @@
         "icon_resource_name": "gw_pack_s",
         "recommended_flg": true,
         "recommended_message": "Super Value!",
-        "open_at": "2020-04-28 13:05:00",
-        "close_at": "2020-05-12 11:59:59"
+        "open_at": "2021-05-31 00:00:00",
+        "close_at": "2021-05-31 23:59:59"
     },
     {
         "id": 100073,
@@ -2957,8 +2957,8 @@
         "icon_resource_name": "gw_pack_m",
         "recommended_flg": true,
         "recommended_message": "Super Value!",
-        "open_at": "2020-04-28 13:05:00",
-        "close_at": "2020-05-12 11:59:59"
+        "open_at": "2021-05-31 00:00:00",
+        "close_at": "2021-05-31 23:59:59"
     },
     {
         "id": 100074,
@@ -2978,8 +2978,8 @@
         "icon_resource_name": "gw_pack_l",
         "recommended_flg": true,
         "recommended_message": "Super Value!",
-        "open_at": "2020-04-28 13:05:00",
-        "close_at": "2020-05-12 11:59:59"
+        "open_at": "2021-05-31 00:00:00",
+        "close_at": "2021-05-31 23:59:59"
     },
     {
         "id": 100075,
@@ -2999,8 +2999,8 @@
         "icon_resource_name": "catcafe_pack_ss",
         "recommended_flg": true,
         "recommended_message": "Super Value!",
-        "open_at": "2020-04-30 00:00:00",
-        "close_at": "2020-05-07 11:59:59"
+        "open_at": "2021-05-31 00:00:00",
+        "close_at": "2021-05-31 23:59:59"
     },
     {
         "id": 100076,
@@ -3020,8 +3020,8 @@
         "icon_resource_name": "catcafe_pack_s",
         "recommended_flg": true,
         "recommended_message": "Super Value!",
-        "open_at": "2020-04-30 00:00:00",
-        "close_at": "2020-05-07 11:59:59"
+        "open_at": "2021-05-31 00:00:00",
+        "close_at": "2021-05-31 23:59:59"
     },
     {
         "id": 100077,
@@ -3041,8 +3041,8 @@
         "icon_resource_name": "catcafe_pack_m",
         "recommended_flg": true,
         "recommended_message": "Super Value!",
-        "open_at": "2020-04-30 00:00:00",
-        "close_at": "2020-05-07 11:59:59"
+        "open_at": "2021-05-31 00:00:00",
+        "close_at": "2021-05-31 23:59:59"
     },
     {
         "id": 100078,
@@ -3062,8 +3062,8 @@
         "icon_resource_name": "catcafe_pack_l",
         "recommended_flg": true,
         "recommended_message": "Super Value!",
-        "open_at": "2020-04-30 00:00:00",
-        "close_at": "2020-05-07 11:59:59"
+        "open_at": "2021-05-31 00:00:00",
+        "close_at": "2021-05-31 23:59:59"
     },
     {
         "id": 100079,
@@ -3146,8 +3146,8 @@
         "icon_resource_name": "sport_pack_ss",
         "recommended_flg": true,
         "recommended_message": "Super Value!",
-        "open_at": "2020-05-19 12:00:00",
-        "close_at": "2020-05-26 11:59:59"
+        "open_at": "2021-05-31 00:00:00",
+        "close_at": "2021-05-31 23:59:59"
     },
     {
         "id": 100083,
@@ -3167,8 +3167,8 @@
         "icon_resource_name": "sport_pack_s",
         "recommended_flg": true,
         "recommended_message": "Super Value!",
-        "open_at": "2020-05-19 12:00:00",
-        "close_at": "2020-05-26 11:59:59"
+        "open_at": "2021-05-31 00:00:00",
+        "close_at": "2021-05-31 23:59:59"
     },
     {
         "id": 100084,
@@ -3188,8 +3188,8 @@
         "icon_resource_name": "sport_pack_m",
         "recommended_flg": true,
         "recommended_message": "Super Value!",
-        "open_at": "2020-05-19 12:00:00",
-        "close_at": "2020-05-26 11:59:59"
+        "open_at": "2021-05-31 00:00:00",
+        "close_at": "2021-05-31 23:59:59"
     },
     {
         "id": 100085,
@@ -3209,8 +3209,8 @@
         "icon_resource_name": "sport_pack_l",
         "recommended_flg": true,
         "recommended_message": "Super Value!",
-        "open_at": "2020-05-19 12:00:00",
-        "close_at": "2020-05-26 11:59:59"
+        "open_at": "2021-05-31 00:00:00",
+        "close_at": "2021-05-31 23:59:59"
     },
     {
         "id": 100086,
@@ -3230,8 +3230,8 @@
         "icon_resource_name": "sport_pack_ss",
         "recommended_flg": true,
         "recommended_message": "Super Value!",
-        "open_at": "2020-05-26 12:00:00",
-        "close_at": "2020-06-02 11:59:59"
+        "open_at": "2021-05-31 00:00:00",
+        "close_at": "2021-05-31 23:59:59"
     },
     {
         "id": 100087,
@@ -3251,8 +3251,8 @@
         "icon_resource_name": "sport_pack_s",
         "recommended_flg": true,
         "recommended_message": "Super Value!",
-        "open_at": "2020-05-26 12:00:00",
-        "close_at": "2020-06-02 11:59:59"
+        "open_at": "2021-05-31 00:00:00",
+        "close_at": "2021-05-31 23:59:59"
     },
     {
         "id": 100088,
@@ -3272,8 +3272,8 @@
         "icon_resource_name": "sport_pack_m",
         "recommended_flg": true,
         "recommended_message": "Super Value!",
-        "open_at": "2020-05-26 12:00:00",
-        "close_at": "2020-06-02 11:59:59"
+        "open_at": "2021-05-31 00:00:00",
+        "close_at": "2021-05-31 23:59:59"
     },
     {
         "id": 100089,
@@ -3293,8 +3293,8 @@
         "icon_resource_name": "sport_pack_l",
         "recommended_flg": true,
         "recommended_message": "Super Value!",
-        "open_at": "2020-05-26 12:00:00",
-        "close_at": "2020-06-02 11:59:59"
+        "open_at": "2021-05-31 00:00:00",
+        "close_at": "2021-05-31 23:59:59"
     },
     {
         "id": 100090,
@@ -3314,8 +3314,8 @@
         "icon_resource_name": "anniv00half_pack_ss",
         "recommended_flg": true,
         "recommended_message": "Super Value!",
-        "open_at": "2020-05-27 13:05:00",
-        "close_at": "2020-06-10 23:59:59"
+        "open_at": "2021-05-31 00:00:00",
+        "close_at": "2021-05-31 23:59:59"
     },
     {
         "id": 100091,
@@ -3335,8 +3335,8 @@
         "icon_resource_name": "anniv00half_pack_s",
         "recommended_flg": true,
         "recommended_message": "Super Value!",
-        "open_at": "2020-05-27 13:05:00",
-        "close_at": "2020-06-10 23:59:59"
+        "open_at": "2021-05-31 00:00:00",
+        "close_at": "2021-05-31 23:59:59"
     },
     {
         "id": 100092,
@@ -3356,8 +3356,8 @@
         "icon_resource_name": "anniv00half_pack_m",
         "recommended_flg": true,
         "recommended_message": "Super Value!",
-        "open_at": "2020-05-27 13:05:00",
-        "close_at": "2020-06-10 23:59:59"
+        "open_at": "2021-05-31 00:00:00",
+        "close_at": "2021-05-31 23:59:59"
     },
     {
         "id": 100093,
@@ -3377,8 +3377,8 @@
         "icon_resource_name": "anniv00half_pack_l",
         "recommended_flg": true,
         "recommended_message": "Super Value!",
-        "open_at": "2020-05-27 13:05:00",
-        "close_at": "2020-06-10 23:59:59"
+        "open_at": "2021-05-31 00:00:00",
+        "close_at": "2021-05-31 23:59:59"
     },
     {
         "id": 100094,
@@ -5692,7 +5692,7 @@
     },
     {
         "id": 106007,
-        "name": "Prism Shell",
+        "name": "Prism Hide",
         "icon_no": 1602,
         "m_item_shop_id": 106,
         "limit_type": 3,
@@ -6847,7 +6847,7 @@
     },
     {
         "id": 112007,
-        "name": "Prism Shell",
+        "name": "Prism Hide",
         "icon_no": 1602,
         "m_item_shop_id": 112,
         "limit_type": 3,
@@ -7918,7 +7918,7 @@
     },
     {
         "id": 115007,
-        "name": "Prism Shell",
+        "name": "Prism Hide",
         "icon_no": 1602,
         "m_item_shop_id": 115,
         "limit_type": 3,
@@ -9808,7 +9808,7 @@
     },
     {
         "id": 121007,
-        "name": "Prism Shell",
+        "name": "Prism Hide",
         "icon_no": 1602,
         "m_item_shop_id": 121,
         "limit_type": 3,
@@ -11698,7 +11698,7 @@
     },
     {
         "id": 126007,
-        "name": "Prism Shell",
+        "name": "Prism Hide",
         "icon_no": 1602,
         "m_item_shop_id": 126,
         "limit_type": 3,
@@ -12790,7 +12790,7 @@
     },
     {
         "id": 135007,
-        "name": "Prism Shell",
+        "name": "Prism Hide",
         "icon_no": 1602,
         "m_item_shop_id": 135,
         "limit_type": 3,
@@ -13923,6 +13923,132 @@
         "close_at": "2050-06-30 23:59:59"
     },
     {
+        "id": 600000,
+        "name": "Xmas Pack (S)",
+        "icon_no": 100010,
+        "m_item_shop_id": 2,
+        "limit_type": 3,
+        "limit_num": 3,
+        "price_type": 3,
+        "price": 21,
+        "price_m_item_id": 0,
+        "comeback": false,
+        "description": "All-in-One Xmas Sale Pack (S)",
+        "cheaping": "",
+        "pack_flg": true,
+        "sort": 10,
+        "icon_resource_name": "",
+        "recommended_flg": false,
+        "recommended_message": "",
+        "open_at": "2021-05-30 00:00:00",
+        "close_at": "2021-06-13 23:59:59"
+    },
+    {
+        "id": 600001,
+        "name": "Xmas Pack (M)",
+        "icon_no": 100011,
+        "m_item_shop_id": 2,
+        "limit_type": 3,
+        "limit_num": 2,
+        "price_type": 3,
+        "price": 49,
+        "price_m_item_id": 0,
+        "comeback": false,
+        "description": "All-in-One Xmas Sale Pack (M)",
+        "cheaping": "",
+        "pack_flg": true,
+        "sort": 11,
+        "icon_resource_name": "",
+        "recommended_flg": false,
+        "recommended_message": "",
+        "open_at": "2021-05-30 00:00:00",
+        "close_at": "2021-06-13 23:59:59"
+    },
+    {
+        "id": 600002,
+        "name": "Xmas Pack (L)",
+        "icon_no": 100012,
+        "m_item_shop_id": 2,
+        "limit_type": 3,
+        "limit_num": 1,
+        "price_type": 3,
+        "price": 99,
+        "price_m_item_id": 0,
+        "comeback": false,
+        "description": "All-in-One Xmas Sale Pack (L)",
+        "cheaping": "",
+        "pack_flg": true,
+        "sort": 12,
+        "icon_resource_name": "",
+        "recommended_flg": false,
+        "recommended_message": "",
+        "open_at": "2021-05-30 00:00:00",
+        "close_at": "2021-06-13 23:59:59"
+    },
+    {
+        "id": 600003,
+        "name": "Fiercest Fes Pack (S)",
+        "icon_no": 100069,
+        "m_item_shop_id": 2,
+        "limit_type": 3,
+        "limit_num": 3,
+        "price_type": 3,
+        "price": 3800,
+        "price_m_item_id": 0,
+        "comeback": false,
+        "description": "Fiercest Fes Pack (S)",
+        "cheaping": "",
+        "pack_flg": true,
+        "sort": 4,
+        "icon_resource_name": "",
+        "recommended_flg": false,
+        "recommended_message": "",
+        "open_at": "2021-06-03 00:00:00",
+        "close_at": "2021-06-08 23:59:59"
+    },
+    {
+        "id": 600004,
+        "name": "Fiercest Fes Pack (M)",
+        "icon_no": 100070,
+        "m_item_shop_id": 2,
+        "limit_type": 3,
+        "limit_num": 2,
+        "price_type": 3,
+        "price": 7500,
+        "price_m_item_id": 0,
+        "comeback": false,
+        "description": "Fiercest Fes Pack (M)",
+        "cheaping": "",
+        "pack_flg": true,
+        "sort": 5,
+        "icon_resource_name": "",
+        "recommended_flg": false,
+        "recommended_message": "",
+        "open_at": "2021-06-03 00:00:00",
+        "close_at": "2021-06-08 23:59:59"
+    },
+    {
+        "id": 600005,
+        "name": "Fiercest Fes Pack (L)",
+        "icon_no": 100071,
+        "m_item_shop_id": 2,
+        "limit_type": 3,
+        "limit_num": 1,
+        "price_type": 3,
+        "price": 11500,
+        "price_m_item_id": 0,
+        "comeback": false,
+        "description": "Fiercest Fes Pack (L)",
+        "cheaping": "",
+        "pack_flg": true,
+        "sort": 6,
+        "icon_resource_name": "",
+        "recommended_flg": false,
+        "recommended_message": "",
+        "open_at": "2021-06-03 00:00:00",
+        "close_at": "2021-06-08 23:59:59"
+    },
+    {
         "id": 953001,
         "name": "Honor Nether Pass",
         "icon_no": 1202,
@@ -14146,7 +14272,7 @@
         "description": "Quartz and Reinc. Gems",
         "cheaping": "",
         "pack_flg": true,
-        "sort": 4,
+        "sort": 7,
         "icon_resource_name": "start_pack_m",
         "recommended_flg": true,
         "recommended_message": "Super Value!",
@@ -14167,7 +14293,7 @@
         "description": "Quartz and Reinc. Gems",
         "cheaping": "",
         "pack_flg": true,
-        "sort": 5,
+        "sort": 8,
         "icon_resource_name": "start_pack_m",
         "recommended_flg": true,
         "recommended_message": "Super Value!",
@@ -14188,7 +14314,7 @@
         "description": "Quartz and Reinc. Gems",
         "cheaping": "",
         "pack_flg": true,
-        "sort": 6,
+        "sort": 9,
         "icon_resource_name": "start_pack_m",
         "recommended_flg": true,
         "recommended_message": "Super Value!",
@@ -14209,7 +14335,7 @@
         "description": "Special Pack for Rookie",
         "cheaping": "",
         "pack_flg": true,
-        "sort": 7,
+        "sort": 10,
         "icon_resource_name": "start_pack_m",
         "recommended_flg": true,
         "recommended_message": "Super Value!",
@@ -14230,7 +14356,7 @@
         "description": "Special Pack for Rookie",
         "cheaping": "",
         "pack_flg": true,
-        "sort": 8,
+        "sort": 11,
         "icon_resource_name": "start_pack_m",
         "recommended_flg": true,
         "recommended_message": "Super Value!",
@@ -14251,7 +14377,7 @@
         "description": "Special Pack for Rookie",
         "cheaping": "",
         "pack_flg": true,
-        "sort": 9,
+        "sort": 12,
         "icon_resource_name": "start_pack_m",
         "recommended_flg": true,
         "recommended_message": "Super Value!",

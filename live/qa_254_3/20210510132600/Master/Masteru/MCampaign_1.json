@@ -157,9 +157,9 @@
         "name": "Comeback Login Bonus",
         "campaign_type": 1,
         "resource_name": "16_comeback",
-        "open_at": "2020-04-28 12:00:00",
-        "close_at": "2020-04-28 12:00:00",
-        "comeback_days": 14
+        "open_at": "2021-05-28 12:00:00",
+        "close_at": "2021-06-01 12:00:00",
+        "comeback_days": 4
     },
     {
         "id": 19,
