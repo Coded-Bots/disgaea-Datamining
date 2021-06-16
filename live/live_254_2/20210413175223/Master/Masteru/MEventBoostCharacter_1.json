@@ -255,42 +255,42 @@
         "id": 1503,
         "m_event_id": 15,
         "m_character_id": 1012,
-        "effect_value": 20,
+        "effect_value": 30,
         "multiple_type": 2
     },
     {
         "id": 1504,
         "m_event_id": 15,
         "m_character_id": 38,
-        "effect_value": 20,
+        "effect_value": 30,
         "multiple_type": 2
     },
     {
         "id": 1505,
         "m_event_id": 15,
         "m_character_id": 33,
-        "effect_value": 20,
+        "effect_value": 30,
         "multiple_type": 2
     },
     {
         "id": 1506,
         "m_event_id": 15,
         "m_character_id": 20003,
-        "effect_value": 10,
+        "effect_value": 30,
         "multiple_type": 2
     },
     {
         "id": 1507,
         "m_event_id": 15,
         "m_character_id": 21002,
-        "effect_value": 10,
+        "effect_value": 30,
         "multiple_type": 2
     },
     {
         "id": 1508,
         "m_event_id": 15,
         "m_character_id": 20002,
-        "effect_value": 10,
+        "effect_value": 30,
         "multiple_type": 2
     },
     {

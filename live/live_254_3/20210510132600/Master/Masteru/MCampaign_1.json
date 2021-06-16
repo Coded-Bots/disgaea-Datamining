@@ -112,8 +112,8 @@
         "name": "Fiercest Overlord Festival Login Bonus",
         "campaign_type": 1,
         "resource_name": "11_maou_fes_1",
-        "open_at": "2021-05-05 02:00:00",
-        "close_at": "2021-05-12 01:59:59",
+        "open_at": "2020-06-03 00:00:00",
+        "close_at": "2020-06-09 23:59:59",
         "comeback_days": 0
     },
     {
@@ -139,8 +139,8 @@
         "name": "Reflection Login Bonus",
         "campaign_type": 1,
         "resource_name": "14_remorse_fes_1",
-        "open_at": "2020-03-20 00:00:00",
-        "close_at": "2020-04-05 23:59:59",
+        "open_at": "2021-06-14 00:00:00",
+        "close_at": "2021-06-23 23:59:59",
         "comeback_days": 0
     },
     {
@@ -157,9 +157,9 @@
         "name": "Comeback Login Bonus",
         "campaign_type": 1,
         "resource_name": "16_comeback",
-        "open_at": "2020-04-28 12:00:00",
-        "close_at": "2020-04-28 12:00:00",
-        "comeback_days": 14
+        "open_at": "2020-04-10 00:00:00",
+        "close_at": "2020-04-16 23:59:59",
+        "comeback_days": 4
     },
     {
         "id": 19,
@@ -175,8 +175,8 @@
         "name": "Fiercest Overlord Festival Login Bonus",
         "campaign_type": 1,
         "resource_name": "18_maou_fes_2",
-        "open_at": "2020-04-29 00:00:00",
-        "close_at": "2020-05-05 23:59:59",
+        "open_at": "2021-06-03 00:00:00",
+        "close_at": "2021-06-09 23:59:59",
         "comeback_days": 0
     },
     {

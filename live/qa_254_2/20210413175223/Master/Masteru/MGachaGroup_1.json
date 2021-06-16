@@ -1473,5 +1473,20 @@
         "id": 12345654,
         "name": "Nether Beauty Summon Once per day",
         "rarity": 4
+    },
+    {
+        "id": 12345662,
+        "name": "The Legendary Graduate Summon Once per day",
+        "rarity": 2
+    },
+    {
+        "id": 12345663,
+        "name": "The Legendary Graduate Summon Once per day",
+        "rarity": 3
+    },
+    {
+        "id": 12345664,
+        "name": "The Legendary Graduate Summon Once per day",
+        "rarity": 4
     }
 ]

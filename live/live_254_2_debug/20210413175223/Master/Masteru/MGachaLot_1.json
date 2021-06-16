@@ -1420,5 +1420,23 @@
         "m_gacha_id": 1234565,
         "m_gacha_group_id": 12345654,
         "rate": 30
+    },
+    {
+        "id": 12345662,
+        "m_gacha_id": 1234566,
+        "m_gacha_group_id": 12345662,
+        "rate": 800
+    },
+    {
+        "id": 12345663,
+        "m_gacha_id": 1234566,
+        "m_gacha_group_id": 12345663,
+        "rate": 170
+    },
+    {
+        "id": 12345664,
+        "m_gacha_id": 1234566,
+        "m_gacha_group_id": 12345664,
+        "rate": 30
     }
 ]

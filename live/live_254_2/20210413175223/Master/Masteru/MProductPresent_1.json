@@ -7520,6 +7520,270 @@
         "present_num": 30
     },
     {
+        "id": 602581,
+        "m_product_id": 600053,
+        "present_type": 1,
+        "present_id": 1831,
+        "present_rarity": 0,
+        "present_num": 20
+    },
+    {
+        "id": 602591,
+        "m_product_id": 600053,
+        "present_type": 1,
+        "present_id": 1832,
+        "present_rarity": 0,
+        "present_num": 25
+    },
+    {
+        "id": 602601,
+        "m_product_id": 600053,
+        "present_type": 1,
+        "present_id": 1833,
+        "present_rarity": 0,
+        "present_num": 25
+    },
+    {
+        "id": 602611,
+        "m_product_id": 600053,
+        "present_type": 1,
+        "present_id": 1834,
+        "present_rarity": 0,
+        "present_num": 30
+    },
+    {
+        "id": 602621,
+        "m_product_id": 600053,
+        "present_type": 2,
+        "present_id": 30001,
+        "present_rarity": 3,
+        "present_num": 5
+    },
+    {
+        "id": 602631,
+        "m_product_id": 600053,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 456
+    },
+    {
+        "id": 602641,
+        "m_product_id": 600053,
+        "present_type": 1,
+        "present_id": 202,
+        "present_rarity": 0,
+        "present_num": 784
+    },
+    {
+        "id": 602651,
+        "m_product_id": 600054,
+        "present_type": 1,
+        "present_id": 1831,
+        "present_rarity": 0,
+        "present_num": 40
+    },
+    {
+        "id": 602661,
+        "m_product_id": 600054,
+        "present_type": 1,
+        "present_id": 1832,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 602671,
+        "m_product_id": 600054,
+        "present_type": 1,
+        "present_id": 1833,
+        "present_rarity": 0,
+        "present_num": 50
+    },
+    {
+        "id": 602681,
+        "m_product_id": 600054,
+        "present_type": 1,
+        "present_id": 1834,
+        "present_rarity": 0,
+        "present_num": 30
+    },
+    {
+        "id": 602691,
+        "m_product_id": 600054,
+        "present_type": 1,
+        "present_id": 1835,
+        "present_rarity": 0,
+        "present_num": 30
+    },
+    {
+        "id": 602701,
+        "m_product_id": 600054,
+        "present_type": 2,
+        "present_id": 30001,
+        "present_rarity": 4,
+        "present_num": 3
+    },
+    {
+        "id": 602711,
+        "m_product_id": 600054,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 1508
+    },
+    {
+        "id": 602721,
+        "m_product_id": 600054,
+        "present_type": 1,
+        "present_id": 202,
+        "present_rarity": 0,
+        "present_num": 2392
+    },
+    {
+        "id": 602731,
+        "m_product_id": 600055,
+        "present_type": 1,
+        "present_id": 1831,
+        "present_rarity": 0,
+        "present_num": 60
+    },
+    {
+        "id": 602741,
+        "m_product_id": 600055,
+        "present_type": 1,
+        "present_id": 1832,
+        "present_rarity": 0,
+        "present_num": 75
+    },
+    {
+        "id": 602751,
+        "m_product_id": 600055,
+        "present_type": 1,
+        "present_id": 1833,
+        "present_rarity": 0,
+        "present_num": 75
+    },
+    {
+        "id": 602761,
+        "m_product_id": 600055,
+        "present_type": 1,
+        "present_id": 1834,
+        "present_rarity": 0,
+        "present_num": 30
+    },
+    {
+        "id": 602771,
+        "m_product_id": 600055,
+        "present_type": 1,
+        "present_id": 1835,
+        "present_rarity": 0,
+        "present_num": 30
+    },
+    {
+        "id": 602781,
+        "m_product_id": 600055,
+        "present_type": 1,
+        "present_id": 1836,
+        "present_rarity": 0,
+        "present_num": 35
+    },
+    {
+        "id": 602791,
+        "m_product_id": 600055,
+        "present_type": 2,
+        "present_id": 30001,
+        "present_rarity": 5,
+        "present_num": 1
+    },
+    {
+        "id": 602801,
+        "m_product_id": 600055,
+        "present_type": 1,
+        "present_id": 201,
+        "present_rarity": 0,
+        "present_num": 2500
+    },
+    {
+        "id": 602811,
+        "m_product_id": 600055,
+        "present_type": 1,
+        "present_id": 202,
+        "present_rarity": 0,
+        "present_num": 3200
+    },
+    {
+        "id": 602821,
+        "m_product_id": 600057,
+        "present_type": 1,
+        "present_id": 301,
+        "present_rarity": 0,
+        "present_num": 5
+    },
+    {
+        "id": 602831,
+        "m_product_id": 600057,
+        "present_type": 1,
+        "present_id": 403,
+        "present_rarity": 0,
+        "present_num": 5
+    },
+    {
+        "id": 602841,
+        "m_product_id": 600057,
+        "present_type": 1,
+        "present_id": 1401,
+        "present_rarity": 0,
+        "present_num": 5
+    },
+    {
+        "id": 602851,
+        "m_product_id": 600058,
+        "present_type": 1,
+        "present_id": 301,
+        "present_rarity": 0,
+        "present_num": 30
+    },
+    {
+        "id": 602861,
+        "m_product_id": 600058,
+        "present_type": 1,
+        "present_id": 403,
+        "present_rarity": 0,
+        "present_num": 30
+    },
+    {
+        "id": 602871,
+        "m_product_id": 600058,
+        "present_type": 1,
+        "present_id": 1401,
+        "present_rarity": 0,
+        "present_num": 30
+    },
+    {
+        "id": 602881,
+        "m_product_id": 600059,
+        "present_type": 1,
+        "present_id": 301,
+        "present_rarity": 0,
+        "present_num": 6
+    },
+    {
+        "id": 602891,
+        "m_product_id": 600059,
+        "present_type": 1,
+        "present_id": 403,
+        "present_rarity": 0,
+        "present_num": 6
+    },
+    {
+        "id": 602901,
+        "m_product_id": 600059,
+        "present_type": 1,
+        "present_id": 1401,
+        "present_rarity": 0,
+        "present_num": 6
+    },
+    {
         "id": 1010011,
         "m_product_id": 101001,
         "present_type": 1,
