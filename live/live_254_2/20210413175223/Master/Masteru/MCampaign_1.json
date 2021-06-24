@@ -148,8 +148,8 @@
         "name": "Netherworld Easter Login Bonus",
         "campaign_type": 1,
         "resource_name": "15_easter_1",
-        "open_at": "2020-04-10 00:00:00",
-        "close_at": "2020-04-16 23:59:59",
+        "open_at": "2021-06-30 00:00:00",
+        "close_at": "2021-07-07 23:59:59",
         "comeback_days": 0
     },
     {

@@ -158,11 +158,11 @@
         "resource_name": "banner_19",
         "action_type": "SceneChange",
         "action_param": "gacha_scene",
-        "option_param": "",
+        "option_param": "200013",
         "period_text": "",
         "sort": 2,
-        "open_at": "2021-04-26 02:00:00",
-        "close_at": "2021-05-12 01:59:59"
+        "open_at": "2021-06-24 02:00:00",
+        "close_at": "2021-07-08 01:59:59"
     },
     {
         "id": 20,
@@ -425,8 +425,8 @@
         "option_param": "200032",
         "period_text": "",
         "sort": 5,
-        "open_at": "2021-06-10 02:00:00",
-        "close_at": "2021-06-17 01:59:59"
+        "open_at": "2021-06-30 00:00:00",
+        "close_at": "2021-07-07 23:59:59"
     },
     {
         "id": 44,
@@ -447,8 +447,8 @@
         "option_param": "",
         "period_text": "",
         "sort": 1,
-        "open_at": "2020-03-06 00:00:00",
-        "close_at": "2020-03-09 23:59:59"
+        "open_at": "2021-06-30 00:00:00",
+        "close_at": "2021-07-07 23:59:59"
     },
     {
         "id": 46,
@@ -535,8 +535,8 @@
         "option_param": "200041",
         "period_text": "",
         "sort": 15,
-        "open_at": "2020-03-28 00:00:00",
-        "close_at": "2020-04-05 23:59:59"
+        "open_at": "2021-06-22 00:00:00",
+        "close_at": "2021-06-29 23:59:59"
     },
     {
         "id": 54,
@@ -722,8 +722,8 @@
         "option_param": "200048",
         "period_text": "",
         "sort": 1,
-        "open_at": "2020-04-09 13:05:00",
-        "close_at": "2020-04-16 12:59:59"
+        "open_at": "2021-06-30 00:00:00",
+        "close_at": "2021-07-07 23:59:59"
     },
     {
         "id": 71,
@@ -774,11 +774,11 @@
         "resource_name": "platinum_5",
         "action_type": "SceneChange",
         "action_param": "gacha_scene",
-        "option_param": "200050",
+        "option_param": "200051",
         "period_text": "",
         "sort": 1,
-        "open_at": "2020-04-16 13:05:00",
-        "close_at": "2020-04-23 11:59:59"
+        "open_at": "2021-07-04 00:00:00",
+        "close_at": "2021-07-11 23:59:59"
     },
     {
         "id": 76,
@@ -843,8 +843,8 @@
         "option_param": "200056",
         "period_text": "",
         "sort": 1,
-        "open_at": "2020-04-28 13:05:00",
-        "close_at": "2020-05-03 23:59:59"
+        "open_at": "2021-07-04 00:00:00",
+        "close_at": "2021-07-09 23:59:59"
     },
     {
         "id": 82,
