@@ -311,49 +311,49 @@
         "id": 2103,
         "m_event_id": 21,
         "m_character_id": 59,
-        "effect_value": 20,
+        "effect_value": 30,
         "multiple_type": 2
     },
     {
         "id": 2104,
         "m_event_id": 21,
         "m_character_id": 13,
-        "effect_value": 20,
+        "effect_value": 30,
         "multiple_type": 2
     },
     {
         "id": 2105,
         "m_event_id": 21,
         "m_character_id": 22,
-        "effect_value": 20,
+        "effect_value": 30,
         "multiple_type": 2
     },
     {
         "id": 2106,
         "m_event_id": 21,
         "m_character_id": 33,
-        "effect_value": 10,
+        "effect_value": 30,
         "multiple_type": 2
     },
     {
         "id": 2107,
         "m_event_id": 21,
         "m_character_id": 1,
-        "effect_value": 10,
+        "effect_value": 30,
         "multiple_type": 2
     },
     {
         "id": 2108,
         "m_event_id": 21,
         "m_character_id": 3,
-        "effect_value": 10,
+        "effect_value": 30,
         "multiple_type": 2
     },
     {
         "id": 2109,
         "m_event_id": 21,
         "m_character_id": 1012,
-        "effect_value": 10,
+        "effect_value": 30,
         "multiple_type": 2
     },
     {

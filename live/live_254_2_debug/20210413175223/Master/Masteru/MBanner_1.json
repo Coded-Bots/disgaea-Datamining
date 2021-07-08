@@ -213,11 +213,11 @@
         "resource_name": "banner_24",
         "action_type": "SceneChange",
         "action_param": "gacha_scene",
-        "option_param": "",
+        "option_param": "200016",
         "period_text": "",
         "sort": 5,
-        "open_at": "2021-05-22 00:00:00",
-        "close_at": "2021-05-28 23:59:59"
+        "open_at": "2021-07-18 00:00:00",
+        "close_at": "2021-07-24 23:59:59"
     },
     {
         "id": 25,
@@ -238,8 +238,8 @@
         "option_param": "200017",
         "period_text": "",
         "sort": 1,
-        "open_at": "2021-05-18 00:00:00",
-        "close_at": "2021-06-01 23:59:59"
+        "open_at": "2021-07-08 02:00:00",
+        "close_at": "2021-07-22 01:59:59"
     },
     {
         "id": 27,
@@ -359,19 +359,19 @@
         "option_param": "200028",
         "period_text": "",
         "sort": 4,
-        "open_at": "2020-02-10 12:00:00",
-        "close_at": "2020-02-20 11:59:59"
+        "open_at": "2021-07-18 00:00:00",
+        "close_at": "2021-07-24 23:59:59"
     },
     {
         "id": 38,
         "resource_name": "beauty_home",
         "action_type": "SceneChange",
         "action_param": "gacha_scene",
-        "option_param": "200029",
+        "option_param": "200030",
         "period_text": "",
         "sort": 1,
-        "open_at": "2021-05-25 00:00:00",
-        "close_at": "2021-06-08 23:59:59"
+        "open_at": "2021-07-18 00:00:00",
+        "close_at": "2021-08-01 23:59:59"
     },
     {
         "id": 39,
@@ -425,8 +425,8 @@
         "option_param": "200032",
         "period_text": "",
         "sort": 5,
-        "open_at": "2021-06-30 00:00:00",
-        "close_at": "2021-07-07 23:59:59"
+        "open_at": "2021-07-11 00:00:00",
+        "close_at": "2021-07-17 23:59:59"
     },
     {
         "id": 44,
@@ -447,8 +447,8 @@
         "option_param": "",
         "period_text": "",
         "sort": 1,
-        "open_at": "2021-06-30 00:00:00",
-        "close_at": "2021-07-07 23:59:59"
+        "open_at": "2021-07-15 00:00:00",
+        "close_at": "2021-07-22 01:59:59"
     },
     {
         "id": 46,
@@ -620,11 +620,11 @@
         "resource_name": "purepure_home",
         "action_type": "SceneChange",
         "action_param": "gacha_scene",
-        "option_param": "200043",
+        "option_param": "200044",
         "period_text": "",
         "sort": 3,
-        "open_at": "2020-03-31 12:00:00",
-        "close_at": "2020-04-14 11:59:59"
+        "open_at": "2021-07-13 00:00:00",
+        "close_at": "2021-07-27 23:59:59"
     },
     {
         "id": 62,
@@ -656,8 +656,8 @@
         "option_param": "",
         "period_text": "",
         "sort": 4,
-        "open_at": "2020-03-31 12:00:00",
-        "close_at": "2020-04-14 11:59:59"
+        "open_at": "2021-07-13 00:00:00",
+        "close_at": "2021-07-27 23:59:59"
     },
     {
         "id": 65,
@@ -667,8 +667,8 @@
         "option_param": "200047",
         "period_text": "",
         "sort": 5,
-        "open_at": "2020-03-31 12:00:00",
-        "close_at": "2020-04-14 11:59:59"
+        "open_at": "2021-07-13 00:00:00",
+        "close_at": "2021-07-27 23:59:59"
     },
     {
         "id": 66,
@@ -1217,8 +1217,8 @@
         "option_param": "200071",
         "period_text": "",
         "sort": 1,
-        "open_at": "2020-05-30 00:00:00",
-        "close_at": "2020-06-03 23:59:59"
+        "open_at": "2021-07-17 00:00:00",
+        "close_at": "2021-07-22 00:59:59"
     },
     {
         "id": 117,
@@ -1250,8 +1250,8 @@
         "option_param": "24",
         "period_text": "",
         "sort": 6,
-        "open_at": "2020-05-27 13:05:00",
-        "close_at": "2020-06-10 23:59:59"
+        "open_at": "2021-07-08 02:00:00",
+        "close_at": "2021-07-27 23:59:59"
     },
     {
         "id": 120,

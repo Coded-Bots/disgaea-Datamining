@@ -543,12 +543,12 @@
         "count_bonus_interval": 0,
         "count_bonus_max": 0,
         "count_bonus_loop_max": 0,
-        "sort": 1,
+        "sort": 4,
         "campaign_type": 0,
         "resource_name": "",
         "probability_text": "",
-        "open_at": "2021-05-22 00:00:00",
-        "close_at": "2021-05-28 23:59:59"
+        "open_at": "2021-07-18 00:00:00",
+        "close_at": "2021-07-24 23:59:59"
     },
     {
         "id": 200017,
@@ -570,12 +570,12 @@
         "count_bonus_interval": 0,
         "count_bonus_max": 0,
         "count_bonus_loop_max": 0,
-        "sort": 6,
+        "sort": 12,
         "campaign_type": 0,
         "resource_name": "",
         "probability_text": "",
-        "open_at": "2021-05-18 00:00:00",
-        "close_at": "2021-06-01 23:59:59"
+        "open_at": "2021-07-08 02:00:00",
+        "close_at": "2021-07-22 01:59:59"
     },
     {
         "id": 200018,
@@ -599,12 +599,12 @@
         "count_bonus_interval": 0,
         "count_bonus_max": 0,
         "count_bonus_loop_max": 0,
-        "sort": 6,
+        "sort": 11,
         "campaign_type": 0,
         "resource_name": "",
         "probability_text": "",
-        "open_at": "2021-05-18 00:00:00",
-        "close_at": "2021-06-01 23:59:59"
+        "open_at": "2021-07-08 02:00:00",
+        "close_at": "2021-07-22 01:59:59"
     },
     {
         "id": 200019,
@@ -881,12 +881,12 @@
         "count_bonus_interval": 0,
         "count_bonus_max": 0,
         "count_bonus_loop_max": 0,
-        "sort": 3,
+        "sort": 5,
         "campaign_type": 0,
         "resource_name": "",
         "probability_text": "",
-        "open_at": "2021-06-03 00:00:00",
-        "close_at": "2021-06-09 23:59:59"
+        "open_at": "2021-07-18 00:00:00",
+        "close_at": "2021-07-24 23:59:59"
     },
     {
         "id": 200029,
@@ -908,12 +908,12 @@
         "count_bonus_interval": 0,
         "count_bonus_max": 0,
         "count_bonus_loop_max": 0,
-        "sort": 5,
+        "sort": 2,
         "campaign_type": 0,
         "resource_name": "",
         "probability_text": "",
-        "open_at": "2021-05-25 00:00:00",
-        "close_at": "2021-06-08 23:59:59"
+        "open_at": "2021-07-18 00:00:00",
+        "close_at": "2021-08-01 23:59:59"
     },
     {
         "id": 200030,
@@ -937,12 +937,12 @@
         "count_bonus_interval": 0,
         "count_bonus_max": 0,
         "count_bonus_loop_max": 0,
-        "sort": 5,
+        "sort": 1,
         "campaign_type": 0,
         "resource_name": "",
         "probability_text": "",
-        "open_at": "2021-05-25 00:00:00",
-        "close_at": "2021-06-08 23:59:59"
+        "open_at": "2021-07-18 00:00:00",
+        "close_at": "2021-08-01 23:59:59"
     },
     {
         "id": 200031,
@@ -995,12 +995,12 @@
         "count_bonus_interval": 0,
         "count_bonus_max": 0,
         "count_bonus_loop_max": 1,
-        "sort": 5,
+        "sort": 10,
         "campaign_type": 0,
         "resource_name": "",
         "probability_text": "",
-        "open_at": "2021-06-30 00:00:00",
-        "close_at": "2021-07-07 23:59:59"
+        "open_at": "2021-07-11 00:00:00",
+        "close_at": "2021-07-17 23:59:59"
     },
     {
         "id": 200033,
@@ -1298,12 +1298,12 @@
         "count_bonus_interval": 0,
         "count_bonus_max": 0,
         "count_bonus_loop_max": 1,
-        "sort": 2,
+        "sort": 7,
         "campaign_type": 0,
         "resource_name": "",
         "probability_text": "",
-        "open_at": "2020-03-31 12:00:00",
-        "close_at": "2020-04-14 11:59:59"
+        "open_at": "2021-07-13 00:00:00",
+        "close_at": "2021-07-27 23:59:59"
     },
     {
         "id": 200044,
@@ -1327,12 +1327,12 @@
         "count_bonus_interval": 0,
         "count_bonus_max": 0,
         "count_bonus_loop_max": 1,
-        "sort": 3,
+        "sort": 6,
         "campaign_type": 0,
         "resource_name": "",
         "probability_text": "",
-        "open_at": "2020-03-31 12:00:00",
-        "close_at": "2020-04-14 11:59:59"
+        "open_at": "2021-07-13 00:00:00",
+        "close_at": "2021-07-27 23:59:59"
     },
     {
         "id": 200045,
@@ -1410,12 +1410,12 @@
         "count_bonus_interval": 0,
         "count_bonus_max": 0,
         "count_bonus_loop_max": 1,
-        "sort": 4,
+        "sort": 9,
         "campaign_type": 0,
         "resource_name": "",
         "probability_text": "",
-        "open_at": "2020-03-31 12:00:00",
-        "close_at": "2020-04-14 11:59:59"
+        "open_at": "2021-07-13 00:00:00",
+        "close_at": "2021-07-27 23:59:59"
     },
     {
         "id": 200048,
@@ -1495,7 +1495,7 @@
         "count_bonus_interval": 3,
         "count_bonus_max": 15,
         "count_bonus_loop_max": 1,
-        "sort": 3,
+        "sort": 16,
         "campaign_type": 0,
         "resource_name": "",
         "probability_text": "",
@@ -1524,7 +1524,7 @@
         "count_bonus_interval": 5,
         "count_bonus_max": 25,
         "count_bonus_loop_max": 1,
-        "sort": 2,
+        "sort": 15,
         "campaign_type": 0,
         "resource_name": "",
         "probability_text": "",
@@ -1661,7 +1661,7 @@
         "count_bonus_interval": 5,
         "count_bonus_max": 30,
         "count_bonus_loop_max": 1,
-        "sort": 1,
+        "sort": 14,
         "campaign_type": 0,
         "resource_name": "",
         "probability_text": "",
@@ -2076,12 +2076,12 @@
         "count_bonus_interval": 5,
         "count_bonus_max": 30,
         "count_bonus_loop_max": 1,
-        "sort": 3,
+        "sort": 1,
         "campaign_type": 0,
         "resource_name": "",
         "probability_text": "",
-        "open_at": "2020-05-30 00:00:00",
-        "close_at": "2020-06-03 23:59:00"
+        "open_at": "2021-07-17 00:00:00",
+        "close_at": "2021-07-22 00:59:59"
     },
     {
         "id": 210001,
@@ -2303,12 +2303,12 @@
         "count_bonus_interval": 0,
         "count_bonus_max": 0,
         "count_bonus_loop_max": 0,
-        "sort": 2,
+        "sort": 13,
         "campaign_type": 0,
         "resource_name": "",
         "probability_text": "",
-        "open_at": "2021-05-18 00:00:00",
-        "close_at": "2021-06-01 23:59:59"
+        "open_at": "2021-07-08 02:00:00",
+        "close_at": "2021-07-22 01:59:59"
     },
     {
         "id": 1234565,
@@ -2328,12 +2328,12 @@
         "count_bonus_interval": 0,
         "count_bonus_max": 0,
         "count_bonus_loop_max": 0,
-        "sort": 2,
+        "sort": 3,
         "campaign_type": 0,
         "resource_name": "",
         "probability_text": "",
-        "open_at": "2021-05-25 00:00:00",
-        "close_at": "2021-06-08 23:59:59"
+        "open_at": "2021-07-18 00:00:00",
+        "close_at": "2021-08-01 23:59:59"
     },
     {
         "id": 1234566,
@@ -2359,5 +2359,30 @@
         "probability_text": "",
         "open_at": "2021-06-10 02:00:00",
         "close_at": "2021-06-24 01:59:59"
+    },
+    {
+        "id": 1234567,
+        "gacha_type": 3,
+        "name": "Magic Cutie Summon Once per day",
+        "price_type": 3,
+        "prices": [
+            50
+        ],
+        "gacha_nums": [
+            1
+        ],
+        "fix_m_gacha_group_ids": [],
+        "limit_type": 1,
+        "limit_num": 1,
+        "count_bonus_m_gacha_group_id": 0,
+        "count_bonus_interval": 0,
+        "count_bonus_max": 0,
+        "count_bonus_loop_max": 0,
+        "sort": 8,
+        "campaign_type": 0,
+        "resource_name": "",
+        "probability_text": "",
+        "open_at": "2021-07-13 00:00:00",
+        "close_at": "2021-07-27 23:59:59"
     }
 ]

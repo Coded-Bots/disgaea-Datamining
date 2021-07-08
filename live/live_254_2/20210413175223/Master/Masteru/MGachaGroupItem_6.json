@@ -8539,5 +8539,1436 @@
         "rarity": 4,
         "effect_rank": 4,
         "rate": 530
+    },
+    {
+        "id": 1234565319,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 10001,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565320,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 10002,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565321,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 10003,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565322,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 10004,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565323,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 10005,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565324,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 10006,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565325,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 10007,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565326,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 10009,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565327,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 10010,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565328,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 10011,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565329,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 10013,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565330,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 10014,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565331,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 10015,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565332,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 10016,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565333,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 10017,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565334,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 10018,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565335,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 30001,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565336,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 30002,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565337,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 30003,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565338,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 30004,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565339,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 30005,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565340,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 30006,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565341,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 30007,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565342,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 30008,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565343,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 30009,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565344,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 30010,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565345,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 30011,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565346,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 30012,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565347,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 30013,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565348,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 30014,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565349,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 30015,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565350,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 30016,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565351,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 30017,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565352,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 30018,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565353,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 30019,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565354,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 30020,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565355,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 30021,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565356,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 30022,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565357,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 30023,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565358,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 30024,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565359,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 30025,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565360,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 30026,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565361,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 30027,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565362,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 30028,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565363,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 30033,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565364,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 30034,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565365,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 30035,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565366,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 30036,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565367,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 30037,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565368,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 30038,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565369,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 30039,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565370,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 30040,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565371,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 30085,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565372,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 30086,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565373,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 30087,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565374,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 30088,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565375,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 30089,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565376,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 30090,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565377,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 30091,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565378,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 30092,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565379,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 30117,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565380,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 30118,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565381,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 30119,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565382,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 30120,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565383,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 30125,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565384,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 30126,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565385,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 30127,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565386,
+        "m_gacha_group_id": 12345672,
+        "item_type": 2,
+        "item_id": 30128,
+        "rarity": 2,
+        "effect_rank": 2,
+        "rate": 100
+    },
+    {
+        "id": 1234565387,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 1001,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565388,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 10008,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565389,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 10012,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565390,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 10019,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565391,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 10020,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565392,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 10021,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565393,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 10023,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565394,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 10025,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565395,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 10026,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565396,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 10027,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565397,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 10038,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565398,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 10039,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565399,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 21004,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565400,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30029,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565401,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30030,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565402,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30031,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565403,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30032,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565404,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30041,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565405,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30042,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565406,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30043,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565407,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30044,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565408,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30045,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565409,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30046,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565410,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30047,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565411,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30048,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565412,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30053,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565413,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30054,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565414,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30055,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565415,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30056,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565416,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30057,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565417,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30058,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565418,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30059,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565419,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30060,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565420,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30061,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565421,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30062,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565422,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30063,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565423,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30064,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565424,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30065,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565425,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30066,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565426,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30067,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565427,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30068,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565428,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30069,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565429,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30070,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565430,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30071,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565431,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30072,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565432,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30073,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565433,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30074,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565434,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30075,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565435,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30076,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565436,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30077,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565437,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30078,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565438,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30079,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565439,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30080,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565440,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30081,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565441,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30082,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565442,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30083,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565443,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30084,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565444,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30097,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565445,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30098,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565446,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30099,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565447,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30100,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565448,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30105,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565449,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30106,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565450,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30107,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565451,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30108,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565452,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30113,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565453,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30114,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565454,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30115,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565455,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30116,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565456,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30129,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565457,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30130,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565458,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30131,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565459,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30132,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565460,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30133,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565461,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30134,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565462,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30135,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565463,
+        "m_gacha_group_id": 12345673,
+        "item_type": 2,
+        "item_id": 30136,
+        "rarity": 3,
+        "effect_rank": 3,
+        "rate": 100
+    },
+    {
+        "id": 1234565464,
+        "m_gacha_group_id": 12345674,
+        "item_type": 2,
+        "item_id": 1,
+        "rarity": 4,
+        "effect_rank": 4,
+        "rate": 100
+    },
+    {
+        "id": 1234565465,
+        "m_gacha_group_id": 12345674,
+        "item_type": 2,
+        "item_id": 6,
+        "rarity": 4,
+        "effect_rank": 4,
+        "rate": 100
+    },
+    {
+        "id": 1234565466,
+        "m_gacha_group_id": 12345674,
+        "item_type": 2,
+        "item_id": 7,
+        "rarity": 4,
+        "effect_rank": 4,
+        "rate": 100
+    },
+    {
+        "id": 1234565467,
+        "m_gacha_group_id": 12345674,
+        "item_type": 2,
+        "item_id": 4,
+        "rarity": 4,
+        "effect_rank": 4,
+        "rate": 100
+    },
+    {
+        "id": 1234565468,
+        "m_gacha_group_id": 12345674,
+        "item_type": 2,
+        "item_id": 10,
+        "rarity": 4,
+        "effect_rank": 4,
+        "rate": 100
+    },
+    {
+        "id": 1234565469,
+        "m_gacha_group_id": 12345674,
+        "item_type": 2,
+        "item_id": 5,
+        "rarity": 4,
+        "effect_rank": 4,
+        "rate": 100
+    },
+    {
+        "id": 1234565470,
+        "m_gacha_group_id": 12345674,
+        "item_type": 2,
+        "item_id": 20002,
+        "rarity": 4,
+        "effect_rank": 4,
+        "rate": 100
+    },
+    {
+        "id": 1234565471,
+        "m_gacha_group_id": 12345674,
+        "item_type": 2,
+        "item_id": 3,
+        "rarity": 4,
+        "effect_rank": 4,
+        "rate": 100
+    },
+    {
+        "id": 1234565472,
+        "m_gacha_group_id": 12345674,
+        "item_type": 2,
+        "item_id": 20003,
+        "rarity": 4,
+        "effect_rank": 4,
+        "rate": 100
+    },
+    {
+        "id": 1234565473,
+        "m_gacha_group_id": 12345674,
+        "item_type": 2,
+        "item_id": 2,
+        "rarity": 4,
+        "effect_rank": 4,
+        "rate": 100
+    },
+    {
+        "id": 1234565474,
+        "m_gacha_group_id": 12345674,
+        "item_type": 2,
+        "item_id": 8,
+        "rarity": 4,
+        "effect_rank": 4,
+        "rate": 100
+    },
+    {
+        "id": 1234565475,
+        "m_gacha_group_id": 12345674,
+        "item_type": 2,
+        "item_id": 21,
+        "rarity": 4,
+        "effect_rank": 4,
+        "rate": 100
+    },
+    {
+        "id": 1234565476,
+        "m_gacha_group_id": 12345674,
+        "item_type": 2,
+        "item_id": 57,
+        "rarity": 4,
+        "effect_rank": 4,
+        "rate": 530
+    },
+    {
+        "id": 1234565477,
+        "m_gacha_group_id": 12345674,
+        "item_type": 2,
+        "item_id": 58,
+        "rarity": 4,
+        "effect_rank": 4,
+        "rate": 530
     }
 ]

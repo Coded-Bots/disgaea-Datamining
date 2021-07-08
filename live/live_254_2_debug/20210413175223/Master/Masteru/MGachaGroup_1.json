@@ -1488,5 +1488,20 @@
         "id": 12345664,
         "name": "The Legendary Graduate Summon Once per day",
         "rarity": 4
+    },
+    {
+        "id": 12345672,
+        "name": "Magic Cutie Summon Once per day",
+        "rarity": 2
+    },
+    {
+        "id": 12345673,
+        "name": "Magic Cutie Summon Once per day",
+        "rarity": 3
+    },
+    {
+        "id": 12345674,
+        "name": "Magic Cutie Summon Once per day",
+        "rarity": 4
     }
 ]
