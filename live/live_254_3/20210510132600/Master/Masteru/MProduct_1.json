@@ -731,8 +731,8 @@
         "icon_resource_name": "",
         "recommended_flg": false,
         "recommended_message": "",
-        "open_at": "2020-05-30 00:00:00",
-        "close_at": "2020-06-03 23:59:59"
+        "open_at": "2021-07-17 00:00:00",
+        "close_at": "2021-07-22 00:59:59"
     },
     {
         "id": 38,
@@ -752,8 +752,8 @@
         "icon_resource_name": "",
         "recommended_flg": false,
         "recommended_message": "",
-        "open_at": "2020-05-30 00:00:00",
-        "close_at": "2020-06-03 23:59:59"
+        "open_at": "2021-07-17 00:00:00",
+        "close_at": "2021-07-22 00:59:59"
     },
     {
         "id": 101,
@@ -3394,7 +3394,7 @@
         "description": "Fiercest Fes Pack (S)",
         "cheaping": "",
         "pack_flg": true,
-        "sort": 1,
+        "sort": 4,
         "icon_resource_name": "maou_fes_ros_s",
         "recommended_flg": true,
         "recommended_message": "Super Value!",
@@ -3415,7 +3415,7 @@
         "description": "Fiercest Fes Pack (M)",
         "cheaping": "",
         "pack_flg": true,
-        "sort": 2,
+        "sort": 5,
         "icon_resource_name": "maou_fes_ros_m",
         "recommended_flg": true,
         "recommended_message": "Super Value!",
@@ -3436,7 +3436,7 @@
         "description": "Fiercest Fes Pack (L)",
         "cheaping": "",
         "pack_flg": true,
-        "sort": 3,
+        "sort": 6,
         "icon_resource_name": "maou_fes_ros_l",
         "recommended_flg": true,
         "recommended_message": "Super Value!",
@@ -15104,7 +15104,7 @@
         "icon_no": 100050,
         "m_item_shop_id": 10001,
         "limit_type": 3,
-        "limit_num": 3,
+        "limit_num": 1,
         "price_type": 3,
         "price": 9,
         "price_m_item_id": 0,
@@ -15117,7 +15117,7 @@
         "recommended_flg": false,
         "recommended_message": "",
         "open_at": "2021-07-05 00:00:00",
-        "close_at": "2021-07-05 01:00:00"
+        "close_at": "2021-07-15 00:59:59"
     },
     {
         "id": 600057,
@@ -15957,7 +15957,7 @@
         "recommended_flg": false,
         "recommended_message": "",
         "open_at": "2021-07-05 00:00:00",
-        "close_at": "2021-07-05 01:00:00"
+        "close_at": "2021-07-15 00:59:59"
     },
     {
         "id": 600097,
@@ -15978,7 +15978,7 @@
         "recommended_flg": false,
         "recommended_message": "",
         "open_at": "2021-07-05 00:00:00",
-        "close_at": "2021-07-05 01:00:00"
+        "close_at": "2021-07-15 00:59:59"
     },
     {
         "id": 600098,
@@ -15986,7 +15986,7 @@
         "icon_no": 6019012,
         "m_item_shop_id": 2,
         "limit_type": 3,
-        "limit_num": 2,
+        "limit_num": 3,
         "price_type": 3,
         "price": 22,
         "price_m_item_id": 0,
@@ -15999,7 +15999,7 @@
         "recommended_flg": false,
         "recommended_message": "",
         "open_at": "2021-07-05 00:00:00",
-        "close_at": "2021-07-05 01:00:00"
+        "close_at": "2021-07-15 00:59:59"
     },
     {
         "id": 600099,
@@ -16007,7 +16007,7 @@
         "icon_no": 6019013,
         "m_item_shop_id": 2,
         "limit_type": 3,
-        "limit_num": 2,
+        "limit_num": 3,
         "price_type": 3,
         "price": 30,
         "price_m_item_id": 0,
@@ -16020,15 +16020,15 @@
         "recommended_flg": false,
         "recommended_message": "",
         "open_at": "2021-07-05 00:00:00",
-        "close_at": "2021-07-05 01:00:00"
+        "close_at": "2021-07-15 00:59:59"
     },
     {
         "id": 600100,
         "name": "Weekly Great Value Set",
         "icon_no": 6019014,
         "m_item_shop_id": 2,
-        "limit_type": 3,
-        "limit_num": 1,
+        "limit_type": 5,
+        "limit_num": 2,
         "price_type": 3,
         "price": 29,
         "price_m_item_id": 0,
@@ -16041,15 +16041,15 @@
         "recommended_flg": false,
         "recommended_message": "",
         "open_at": "2021-07-05 00:00:00",
-        "close_at": "2021-07-05 01:00:00"
+        "close_at": "2021-07-15 00:59:59"
     },
     {
         "id": 600101,
         "name": "Weekly Super Value Set",
         "icon_no": 6019015,
         "m_item_shop_id": 2,
-        "limit_type": 3,
-        "limit_num": 1,
+        "limit_type": 5,
+        "limit_num": 2,
         "price_type": 3,
         "price": 39,
         "price_m_item_id": 0,
@@ -16062,7 +16062,7 @@
         "recommended_flg": false,
         "recommended_message": "",
         "open_at": "2021-07-05 00:00:00",
-        "close_at": "2021-07-05 01:00:00"
+        "close_at": "2021-07-15 00:59:59"
     },
     {
         "id": 600102,
@@ -16083,7 +16083,7 @@
         "recommended_flg": false,
         "recommended_message": "",
         "open_at": "2021-07-05 00:00:00",
-        "close_at": "2021-07-05 01:00:00"
+        "close_at": "2021-07-15 00:59:59"
     },
     {
         "id": 600103,
@@ -16091,7 +16091,7 @@
         "icon_no": 6019017,
         "m_item_shop_id": 2,
         "limit_type": 2,
-        "limit_num": 1,
+        "limit_num": 5,
         "price_type": 3,
         "price": 14,
         "price_m_item_id": 0,
@@ -16104,15 +16104,15 @@
         "recommended_flg": false,
         "recommended_message": "",
         "open_at": "2021-07-05 00:00:00",
-        "close_at": "2021-07-05 01:00:00"
+        "close_at": "2021-07-15 00:59:59"
     },
     {
         "id": 600104,
         "name": "Reinc. Gem Pack",
         "icon_no": 6019018,
-        "m_item_shop_id": 2,
-        "limit_type": 3,
-        "limit_num": 1,
+        "m_item_shop_id": 1,
+        "limit_type": 5,
+        "limit_num": 2,
         "price_type": 2,
         "price": 90,
         "price_m_item_id": 0,
@@ -16125,7 +16125,7 @@
         "recommended_flg": false,
         "recommended_message": "",
         "open_at": "2021-07-05 00:00:00",
-        "close_at": "2021-07-05 01:00:00"
+        "close_at": "2021-07-15 00:59:59"
     },
     {
         "id": 600105,
@@ -16146,7 +16146,7 @@
         "recommended_flg": false,
         "recommended_message": "",
         "open_at": "2021-07-05 00:00:00",
-        "close_at": "2021-07-05 01:00:00"
+        "close_at": "2021-07-15 00:59:59"
     },
     {
         "id": 600106,
@@ -16167,7 +16167,7 @@
         "recommended_flg": false,
         "recommended_message": "",
         "open_at": "2021-07-05 00:00:00",
-        "close_at": "2021-07-05 01:00:00"
+        "close_at": "2021-07-15 00:59:59"
     },
     {
         "id": 600107,
@@ -16188,7 +16188,7 @@
         "recommended_flg": false,
         "recommended_message": "",
         "open_at": "2021-07-05 00:00:00",
-        "close_at": "2021-07-05 01:00:00"
+        "close_at": "2021-07-15 00:59:59"
     },
     {
         "id": 953001,

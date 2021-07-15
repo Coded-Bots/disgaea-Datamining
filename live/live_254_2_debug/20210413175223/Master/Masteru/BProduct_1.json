@@ -92,12 +92,12 @@
         "name": "Reinc. Gem Pick Pack 1",
         "icon_no": 6019019,
         "m_item_shop_id": 1,
-        "limit_type": 3,
-        "limit_num": 1,
+        "limit_type": 5,
+        "limit_num": 2,
         "price_type": 2,
         "price": 150,
         "price_m_item_id": 0,
-        "select_count": 3,
+        "select_count": 1,
         "comeback": false,
         "description": "Pick Gems to your liking",
         "cheaping": "",
@@ -107,19 +107,19 @@
         "recommended_flg": false,
         "recommended_message": "",
         "open_at": "2021-07-05 00:00:00",
-        "close_at": "2021-07-05 01:00:00"
+        "close_at": "2021-07-15 00:59:59"
     },
     {
         "id": 12345676,
         "name": "Reinc. Gem Pick Pack 2",
         "icon_no": 6019020,
         "m_item_shop_id": 1,
-        "limit_type": 3,
-        "limit_num": 1,
+        "limit_type": 5,
+        "limit_num": 2,
         "price_type": 2,
         "price": 300,
         "price_m_item_id": 0,
-        "select_count": 3,
+        "select_count": 1,
         "comeback": false,
         "description": "Pick Gems to your liking",
         "cheaping": "",
@@ -129,19 +129,19 @@
         "recommended_flg": false,
         "recommended_message": "",
         "open_at": "2021-07-05 00:00:00",
-        "close_at": "2021-07-05 01:00:00"
+        "close_at": "2021-07-15 00:59:59"
     },
     {
         "id": 12345677,
         "name": "Reinc. Gem Pick Pack 3",
         "icon_no": 6019021,
         "m_item_shop_id": 1,
-        "limit_type": 3,
-        "limit_num": 1,
+        "limit_type": 5,
+        "limit_num": 2,
         "price_type": 2,
         "price": 750,
         "price_m_item_id": 0,
-        "select_count": 2,
+        "select_count": 1,
         "comeback": false,
         "description": "Pick Gems to your liking",
         "cheaping": "",
@@ -151,6 +151,6 @@
         "recommended_flg": false,
         "recommended_message": "",
         "open_at": "2021-07-05 00:00:00",
-        "close_at": "2021-07-05 01:00:00"
+        "close_at": "2021-07-15 00:59:59"
     }
 ]
