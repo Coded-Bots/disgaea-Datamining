@@ -374,49 +374,49 @@
         "id": 2603,
         "m_event_id": 26,
         "m_character_id": 64,
-        "effect_value": 20,
+        "effect_value": 30,
         "multiple_type": 2
     },
     {
         "id": 2604,
         "m_event_id": 26,
         "m_character_id": 19,
-        "effect_value": 20,
+        "effect_value": 30,
         "multiple_type": 2
     },
     {
         "id": 2605,
         "m_event_id": 26,
         "m_character_id": 42,
-        "effect_value": 10,
+        "effect_value": 30,
         "multiple_type": 2
     },
     {
         "id": 2606,
         "m_event_id": 26,
         "m_character_id": 59,
-        "effect_value": 10,
+        "effect_value": 30,
         "multiple_type": 2
     },
     {
         "id": 2607,
         "m_event_id": 26,
         "m_character_id": 61,
-        "effect_value": 10,
+        "effect_value": 30,
         "multiple_type": 2
     },
     {
         "id": 2608,
         "m_event_id": 26,
         "m_character_id": 60,
-        "effect_value": 10,
+        "effect_value": 30,
         "multiple_type": 2
     },
     {
         "id": 2609,
         "m_event_id": 26,
         "m_character_id": 6,
-        "effect_value": 10,
+        "effect_value": 30,
         "multiple_type": 2
     },
     {

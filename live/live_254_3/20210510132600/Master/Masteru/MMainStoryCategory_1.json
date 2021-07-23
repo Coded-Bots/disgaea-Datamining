@@ -17,6 +17,6 @@
         "open_condition_m_stage_id": 110512,
         "lock_msg": "Unlocked after clearing Arc 1",
         "open_at": "2019-12-01 00:00:00 -0400",
-        "close_at": "2019-12-01 00:00:00 -0400"
+        "close_at": "2030-12-31 23:59:59 -0400"
     }
 ]

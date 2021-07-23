@@ -1076,62 +1076,62 @@
     },
     {
         "id": 2000580,
-        "name": "[Paid] Golden Week Special Robbery Certain Slot",
+        "name": "[Paid] Celebration Special Robbery Certain Slot",
         "rarity": 34
     },
     {
         "id": 2000582,
-        "name": "[Paid] Golden Week Special Robbery",
+        "name": "[Paid] 100-Day Celebration Special Robbery",
         "rarity": 2
     },
     {
         "id": 2000583,
-        "name": "[Paid] Golden Week Special Robbery",
+        "name": "[Paid] 100-Day Celebration Special Robbery",
         "rarity": 3
     },
     {
         "id": 2000584,
-        "name": "[Paid] Golden Week Special Robbery",
+        "name": "[Paid] 100-Day Celebration Special Robbery",
         "rarity": 4
     },
     {
         "id": 2000590,
-        "name": "Golden Week Special Robbery Certain Slot",
+        "name": "100-Day Celebration Special Robbery Certain Slot",
         "rarity": 34
     },
     {
         "id": 2000592,
-        "name": "Golden Week Special Robbery",
+        "name": "100-Day Celebration Special Robbery",
         "rarity": 2
     },
     {
         "id": 2000593,
-        "name": "Golden Week Special Robbery",
+        "name": "100-Day Celebration Special Robbery",
         "rarity": 3
     },
     {
         "id": 2000594,
-        "name": "Golden Week Special Robbery",
+        "name": "100-Day Celebration Special Robbery",
         "rarity": 4
     },
     {
         "id": 2000600,
-        "name": "May Fortune Prinny Summon\t Certain Slot",
+        "name": "Summer Prinny Summon\t Certain Slot",
         "rarity": 34
     },
     {
         "id": 2000602,
-        "name": "May Fortune Prinny Summon",
+        "name": "Summer Prinny Summon",
         "rarity": 2
     },
     {
         "id": 2000603,
-        "name": "May Fortune Prinny Summon",
+        "name": "Summer Prinny Summon",
         "rarity": 3
     },
     {
         "id": 2000604,
-        "name": "May Fortune Prinny Summon",
+        "name": "Summer Prinny Summon",
         "rarity": 4
     },
     {
@@ -1502,6 +1502,21 @@
     {
         "id": 12345674,
         "name": "Magic Cutie Summon Once per day",
+        "rarity": 4
+    },
+    {
+        "id": 12345682,
+        "name": "Meow Meow Cat Cafe Summon Once per day",
+        "rarity": 2
+    },
+    {
+        "id": 12345683,
+        "name": "Meow Meow Cat Cafe Summon Once per day",
+        "rarity": 3
+    },
+    {
+        "id": 12345684,
+        "name": "Meow Meow Cat Cafe Summon Once per day",
         "rarity": 4
     }
 ]

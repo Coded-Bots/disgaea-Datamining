@@ -7,7 +7,7 @@
         "reminiscent_m_area_id": 2001106,
         "resource_name": "story_event_1_xmas2019",
         "open_at": "2019-11-01 00:00:00 -0400",
-        "close_at": "2020-04-01 00:00:00 -0400"
+        "close_at": "2030-12-31 23:59:59 -0400"
     },
     {
         "id": 2,
@@ -17,7 +17,7 @@
         "reminiscent_m_area_id": 2004106,
         "resource_name": "story_event_2_newyear2020",
         "open_at": "2019-11-01 00:00:00 -0400",
-        "close_at": "2020-04-01 00:00:00 -0400"
+        "close_at": "2030-12-31 23:59:59 -0400"
     },
     {
         "id": 3,
@@ -27,7 +27,7 @@
         "reminiscent_m_area_id": 2006106,
         "resource_name": "story_event_3_curtiss",
         "open_at": "2019-11-01 00:00:00 -0400",
-        "close_at": "2020-04-01 00:00:00 -0400"
+        "close_at": "2030-12-31 23:59:59 -0400"
     },
     {
         "id": 4,
@@ -37,6 +37,6 @@
         "reminiscent_m_area_id": 2012106,
         "resource_name": "story_event_4_beauty",
         "open_at": "2019-11-01 00:00:00 -0400",
-        "close_at": "2020-04-01 00:00:00 -0400"
+        "close_at": "2030-12-31 23:59:59 -0400"
     }
 ]

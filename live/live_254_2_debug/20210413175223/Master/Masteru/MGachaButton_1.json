@@ -302,7 +302,7 @@
     {
         "id": 51,
         "m_gacha_id": 1234568,
-        "gacha_num": 1,
+        "gacha_num": 10,
         "resource_name": "common_pay"
     },
     {
@@ -314,6 +314,12 @@
     {
         "id": 53,
         "m_gacha_id": 200010,
+        "gacha_num": 1,
+        "resource_name": "common_pay"
+    },
+    {
+        "id": 54,
+        "m_gacha_id": 1234570,
         "gacha_num": 1,
         "resource_name": "common_pay"
     }
